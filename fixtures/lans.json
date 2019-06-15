@@ -1,0 +1,7425 @@
+[
+  {
+    "date": "2019-05-09T23:00:12.887Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:00:12.898Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:00:12.899Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/761ba11d-04cb-4949-91e6-85d782a8303e",
+        "label": "Echogamer, the Spy of Politics"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:00:12.899Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/efe0df68-e73d-4cd8-a59f-43359c032b24",
+        "label": "Xin the Heroically Languid"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:00:13.761Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:13.899Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:18.091Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:20.476Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:49.062Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:00:49.065Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:49.065Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-09T23:00:49.065Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:49.304Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:52.473Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "untamed",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:00:52.474Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:52.796Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:54.702Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Nepenthe Seed",
+        "image": "nepenthe-seed",
+        "label": "Nepenthe Seed",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:00:54.948Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:57.177Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:57.177Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:00:57.178Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:57.178Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:57.178Z",
+    "message": [
+      "Zawesome0207: 0 amber stronglink: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:00:57.178Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:57.179Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:57.179Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-09T23:00:57.179Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:00:57.419Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:05.187Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:05.187Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:05.421Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:06.347Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Batdrone",
+        "image": "batdrone",
+        "label": "Batdrone",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:06.533Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:07.730Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dr. Escotera",
+        "image": "dr-escotera",
+        "label": "Dr. Escotera",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:07.878Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:09.148Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:09.148Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:09.149Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:09.149Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:09.150Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:09.150Z",
+    "message": [
+      "Zawesome0207: 0 amber stronglink: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:09.150Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:09.151Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:09.151Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:09.151Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:09.306Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:15.551Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:15.552Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:15.791Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:17.577Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Whispering Reliquary",
+        "image": "whispering-reliquary",
+        "label": "Whispering Reliquary",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:17.794Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:19.832Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Horseman of Pestilence",
+        "image": "horseman-of-pestilence",
+        "label": "Horseman of Pestilence",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:19.834Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Horseman of Pestilence",
+        "image": "horseman-of-pestilence",
+        "label": "Horseman of Pestilence",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 1 damage to all non-Horseman creatures"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:20.141Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:23.155Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Horseman of War",
+        "image": "horseman-of-war",
+        "label": "Horseman of War",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:23.331Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:23.991Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Horseman of War",
+        "image": "horseman-of-war",
+        "label": "Horseman of War",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "allow all friendly creatures to only fight this turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:24.253Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:25.613Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Honorable Claim",
+        "image": "honorable-claim",
+        "label": "Honorable Claim",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:25.787Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:29.723Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:29.723Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:29.726Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:29.727Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:29.730Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:29.730Z",
+    "message": [
+      "Zawesome0207: 1 amber stronglink: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:29.730Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:29.731Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:29.731Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:29.731Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:30.081Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:55.643Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:55.643Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:55.877Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:56.904Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:56.906Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "discard a card at random"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:56.906Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "message": [
+          {
+            "name": "Key Charge",
+            "image": "key-charge",
+            "label": "Key Charge",
+            "type": "action",
+            "argType": "card"
+          }
+        ]
+      },
+      " at random"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:57.152Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:01:59.209Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Gabos Longarms",
+        "image": "gabos-longarms",
+        "label": "Gabos Longarms",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:01:59.363Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:01.101Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:01.254Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:01.696Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "capture 3 amber from ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          },
+          ", placing it on ",
+          {
+            "message": [
+              {
+                "name": "Charette",
+                "image": "charette",
+                "label": "Charette",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:01.934Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:02.631Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:02.631Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:02.632Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:02.632Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:02.634Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:02.634Z",
+    "message": [
+      "Zawesome0207: 0 amber stronglink: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:02.634Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:02.634Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:02.634Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:02.635Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:02.805Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:13.675Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:13.676Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:14.002Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:15.514Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Gatekeeper",
+        "image": "gatekeeper",
+        "label": "Gatekeeper",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:15.760Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:20.816Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Horseman of Pestilence",
+        "image": "horseman-of-pestilence",
+        "label": "Horseman of Pestilence",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Horseman of Pestilence",
+                "image": "horseman-of-pestilence",
+                "label": "Horseman of Pestilence",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:20.817Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Horseman of Pestilence",
+        "image": "horseman-of-pestilence",
+        "label": "Horseman of Pestilence",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 1 damage to all non-Horseman creatures"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:21.072Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:26.857Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Horseman of War",
+        "image": "horseman-of-war",
+        "label": "Horseman of War",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Horseman of War",
+                "image": "horseman-of-war",
+                "label": "Horseman of War",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:27.215Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:39.370Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:39.370Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:39.379Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:39.379Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:39.380Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:39.380Z",
+    "message": [
+      "Zawesome0207: 2 amber stronglink: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:39.380Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:39.381Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:39.381Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:39.381Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:39.710Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:48.372Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:48.373Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:48.616Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:51.906Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:52.064Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:56.489Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:56.746Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:02:59.341Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:02:59.599Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:02.313Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dr. Escotera",
+        "image": "dr-escotera",
+        "label": "Dr. Escotera",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Dr. Escotera",
+                "image": "dr-escotera",
+                "label": "Dr. Escotera",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:02.558Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:03.155Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:03.155Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:03.157Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:03.157Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:03.158Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:03.158Z",
+    "message": [
+      "Zawesome0207: 2 amber stronglink: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:03.158Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:03.159Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:03.159Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:03.159Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:03.444Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:15.292Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "untamed",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:15.293Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:15.647Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:18.365Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Stampede",
+        "image": "stampede",
+        "label": "Stampede",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:18.623Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:21.088Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Lifeweb",
+        "image": "lifeweb",
+        "label": "Lifeweb",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:21.385Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:24.710Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:24.711Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:24.712Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:24.712Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:24.713Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:24.713Z",
+    "message": [
+      "Zawesome0207: 4 amber stronglink: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:24.713Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:24.714Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:24.714Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:24.714Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:24.960Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:29.990Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:30.236Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:32.044Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:32.288Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:41.293Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Quixo the \"Adventurer\"",
+            "image": "quixo-the-adventurer",
+            "label": "Quixo the \"Adventurer\"",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Horseman of Pestilence",
+                "image": "horseman-of-pestilence",
+                "label": "Horseman of Pestilence",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:41.295Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw 1 cards"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:41.554Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:45.461Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Psychic Bug",
+        "image": "psychic-bug",
+        "label": "Psychic Bug",
+        "type": "creature",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:45.706Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:46.232Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Psychic Bug",
+        "image": "psychic-bug",
+        "label": "Psychic Bug",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reveal ",
+          {
+            "message": [
+              {
+                "name": "Neuro Syphon",
+                "image": "neuro-syphon",
+                "label": "Neuro Syphon",
+                "type": "action",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Timetraveller",
+                "image": "timetraveller",
+                "label": "Timetraveller",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Phase Shift",
+                "image": "phase-shift",
+                "label": "Phase Shift",
+                "type": "action",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Help From Future Self",
+                "image": "help-from-future-self",
+                "label": "Help From Future Self",
+                "type": "action",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Champion Anaphiel",
+                "image": "champion-anaphiel",
+                "label": "Champion Anaphiel",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", and ",
+              {
+                "name": "Witch of the Eye",
+                "image": "witch-of-the-eye",
+                "label": "Witch of the Eye",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:46.394Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:03:58.282Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:03:58.528Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:05.560Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dr. Escotera",
+        "image": "dr-escotera",
+        "label": "Dr. Escotera",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Dr. Escotera",
+                "image": "dr-escotera",
+                "label": "Dr. Escotera",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:05.808Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:06.813Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:06.813Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:06.815Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:06.815Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:06.816Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:06.816Z",
+    "message": [
+      "Zawesome0207: 4 amber stronglink: 5 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:06.816Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:06.824Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:06.824Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:06.824Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:07.135Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:10.110Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:10.112Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:10.437Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:14.287Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:14.551Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:16.874Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw 2 cards"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:17.195Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:23.415Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:23.784Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:24.276Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw 2 cards"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:24.484Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:26.738Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:26.739Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw a card after playing a card for the remainder of the turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:26.942Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:28.941Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Veylan Analyst",
+        "image": "veylan-analyst",
+        "label": "Veylan Analyst",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:29.102Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:29.772Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:30.029Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:31.793Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:31.794Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:32.146Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:35.205Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:35.460Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:43.592Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:43.593Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:43.594Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "allow them to play one non-Logos card this turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:43.925Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:46.589Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Twin Bolt Emission",
+        "image": "twin-bolt-emission",
+        "label": "Twin Bolt Emission",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:46.589Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:46.846Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:49.308Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Twin Bolt Emission",
+        "image": "twin-bolt-emission",
+        "label": "Twin Bolt Emission",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 2 damage to ",
+          {
+            "message": [
+              {
+                "name": "Timetraveller",
+                "image": "timetraveller",
+                "label": "Timetraveller",
+                "type": "creature",
+                "argType": "card"
+              },
+              " and ",
+              {
+                "name": "Timetraveller",
+                "image": "timetraveller",
+                "label": "Timetraveller",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:49.585Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:54.625Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:54.627Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:54.628Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "search their deck and discard for Timetraveller"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:54.984Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 9,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:57.158Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " takes ",
+      {
+        "message": [
+          {
+            "name": "Timetraveller",
+            "image": "timetraveller",
+            "label": "Timetraveller",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      },
+      " into their hand"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:57.159Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " shuffles their discard into their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:57.159Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:57.415Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 9,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:59.093Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:59.303Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:04:59.818Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:04:59.819Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw 2 cards"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:00.022Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:05:04.771Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Neuro Syphon",
+        "image": "neuro-syphon",
+        "label": "Neuro Syphon",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:04.773Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:05.119Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:05:23.319Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Cooperative Hunting",
+        "image": "cooperative-hunting",
+        "label": "Cooperative Hunting",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:23.320Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:23.322Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Cooperative Hunting",
+        "image": "cooperative-hunting",
+        "label": "Cooperative Hunting",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 1 damage to a creature for each creature they control"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:23.660Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:05:36.523Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:36.523Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:36.866Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 12,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:05:40.761Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:41.066Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 12,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:05:45.596Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:45.597Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:45.598Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "search their deck and discard for Timetraveller"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:45.963Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 13,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:05:49.366Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " takes ",
+      {
+        "message": [
+          {
+            "name": "Timetraveller",
+            "image": "timetraveller",
+            "label": "Timetraveller",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      },
+      " into their hand"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:49.368Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " shuffles their discard into their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:49.368Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:49.669Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 13,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:05:51.743Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:52.019Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 14,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:05:52.688Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:52.690Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw 2 cards"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:53.030Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 14,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:05:56.066Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:56.067Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:56.429Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 15,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:05:56.957Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:05:57.160Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 15,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:01.957Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mobius Scroll",
+        "image": "mobius-scroll",
+        "label": "Mobius Scroll",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:01.958Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:02.262Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 15,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:04.496Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:04.750Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 16,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:05.545Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:05.547Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw 2 cards"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:05.804Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 16,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:08.141Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:08.142Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:08.144Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw a card after playing a card for the remainder of the turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:08.316Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 16,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:10.345Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Twin Bolt Emission",
+        "image": "twin-bolt-emission",
+        "label": "Twin Bolt Emission",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:10.346Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:10.346Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:10.579Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 17,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:12.623Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Twin Bolt Emission",
+        "image": "twin-bolt-emission",
+        "label": "Twin Bolt Emission",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 2 damage to ",
+          {
+            "message": [
+              {
+                "name": "Timetraveller",
+                "image": "timetraveller",
+                "label": "Timetraveller",
+                "type": "creature",
+                "argType": "card"
+              },
+              " and ",
+              {
+                "name": "Timetraveller",
+                "image": "timetraveller",
+                "label": "Timetraveller",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:12.915Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 17,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:16.479Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:16.479Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:16.479Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:16.481Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "allow them to play one non-Logos card this turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:16.765Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 17,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:19.284Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Key Charge",
+        "image": "key-charge",
+        "label": "Key Charge",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:19.284Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:19.293Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:19.294Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Key Charge",
+        "image": "key-charge",
+        "label": "Key Charge",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "message": [
+              {
+                "name": "Zawesome0207",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          },
+          " lose 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:19.655Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 16,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:28.329Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:28.330Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:28.330Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:28.589Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:29.422Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:29.770Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:34.163Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Neuro Syphon",
+        "image": "neuro-syphon",
+        "label": "Neuro Syphon",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:34.164Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:34.164Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:34.165Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:34.166Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:34.518Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 12,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:40.133Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:40.133Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:40.134Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:40.135Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "search their deck and discard for Timetraveller"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:40.378Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 13,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:43.512Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " takes ",
+      {
+        "message": [
+          {
+            "name": "Timetraveller",
+            "image": "timetraveller",
+            "label": "Timetraveller",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      },
+      " into their hand"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:43.513Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " shuffles their discard into their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:43.513Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:43.921Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 13,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:45.644Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:45.979Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 14,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:46.334Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:46.334Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:46.337Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw 2 cards"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:46.517Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 14,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:49.565Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Neuro Syphon",
+        "image": "neuro-syphon",
+        "label": "Neuro Syphon",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:49.566Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:49.566Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:49.880Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 15,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:06:53.003Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:06:53.445Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 15,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:00.067Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:00.068Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:00.068Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:00.068Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:00.068Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:00.071Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw a card after playing a card for the remainder of the turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:00.344Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 15,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:08.643Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:08.644Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:08.644Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:08.645Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:08.645Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:08.645Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:08.654Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "search their deck and discard for Timetraveller"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:08.929Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 16,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:10.934Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " doesn''t take anything"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:10.934Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " shuffles their discard into their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:10.934Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:11.276Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 16,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:14.412Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:14.413Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:14.413Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:14.413Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:14.413Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:14.413Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:14.415Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw a card after playing a card for the remainder of the turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:14.680Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 16,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:16.793Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:16.794Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:16.794Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:16.794Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:16.794Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:16.795Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:16.795Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:16.797Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "search their deck and discard for Timetraveller"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:17.101Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 17,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:18.301Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " doesn''t take anything"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:18.301Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " shuffles their discard into their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:18.301Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:18.745Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 17,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:19.817Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:19.818Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:19.818Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:19.818Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:19.818Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:19.818Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:19.819Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:19.820Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw a card after playing a card for the remainder of the turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:20.195Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 17,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:21.676Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:21.678Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:21.678Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:21.678Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:21.678Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:21.678Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:21.678Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:21.679Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:21.682Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "search their deck and discard for Timetraveller"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:21.970Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 18,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:22.672Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " doesn''t take anything"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:22.673Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " shuffles their discard into their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:22.673Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:22.960Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 18,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:24.428Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:24.428Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:24.428Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:24.428Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:24.429Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:24.429Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:24.429Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:24.429Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:24.431Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw a card after playing a card for the remainder of the turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:24.747Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 18,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:26.606Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "name": "Help From Future Self",
+        "image": "help-from-future-self",
+        "label": "Help From Future Self",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:26.929Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 18,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:30.133Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Neuro Syphon",
+        "image": "neuro-syphon",
+        "label": "Neuro Syphon",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:30.134Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:30.134Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:30.135Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:30.135Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:30.135Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:30.135Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:30.135Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:30.135Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:30.400Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 19,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:46.712Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:46.713Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:46.713Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:46.713Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:46.713Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:46.713Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:46.713Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:46.714Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:46.714Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:46.716Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "allow them to play one non-Logos card this turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:47.116Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 19,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:52.284Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Key Charge",
+        "image": "key-charge",
+        "label": "Key Charge",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:52.285Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:52.285Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:52.285Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:52.285Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:52.285Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:52.285Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:52.285Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:52.285Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:52.288Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Key Charge",
+        "image": "key-charge",
+        "label": "Key Charge",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "message": [
+              {
+                "name": "Zawesome0207",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          },
+          " lose 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:52.644Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 18,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:57.484Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:57.484Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:57.485Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:57.485Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:57.485Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:57.485Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:57.485Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:57.485Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:57.485Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:57.488Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "allow them to play one non-Logos card this turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:57.759Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 12,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:07:59.004Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Key Charge",
+        "image": "key-charge",
+        "label": "Key Charge",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:59.004Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:59.005Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:59.005Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:59.005Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:59.005Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:59.005Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "''s effect"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:59.005Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      "''s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:59.005Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:59.007Z",
+    "message": [
+      {
+        "name": "Zawesome0207",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Key Charge",
+        "image": "key-charge",
+        "label": "Key Charge",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "message": [
+              {
+                "name": "Zawesome0207",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          },
+          " lose 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-09T23:07:59.238Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:08:00.076Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Zawesome0207",
+            "argType": "nonAvatarPlayer"
+          },
+          " has won the game"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-09T23:08:00.534Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Zawesome0207": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 3
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  }
+]

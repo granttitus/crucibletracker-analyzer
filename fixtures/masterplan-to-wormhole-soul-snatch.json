@@ -1,0 +1,8345 @@
+[
+  {
+    "date": "2019-05-02T04:06:27.562Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:06:27.570Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:06:27.571Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/ad2402f2-54d0-46e9-b2fc-8e100a1c1485",
+        "label": "Painted “Mutton Chops” Hannelore"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:06:27.571Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/81e00d7a-52a0-43d0-84e9-f8379754a2ff",
+        "label": "Tesluh, Valonhenge's Royal Advisor"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:06:28.281Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:31.694Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:32.224Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:32.369Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:35.526Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:47.032Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:47.032Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:06:47.032Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:47.177Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:54.880Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:06:54.880Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:55.107Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:56.026Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Carlo Phantom",
+        "image": "carlo-phantom",
+        "label": "Carlo Phantom",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:06:56.175Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:56.701Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:56.702Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:06:56.702Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:56.703Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:56.703Z",
+    "message": [
+      "stronglink: 0 amber dsadf: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:06:56.703Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:56.703Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:56.703Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:06:56.703Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:06:56.943Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:07:36.013Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:07:36.014Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:07:36.260Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:08:46.919Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          },
+          " has disconnected"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:08:47.147Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:08:49.083Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          },
+          " has reconnected"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:08:49.083Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:08:49.373Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:08:56.502Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:08:56.745Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:08:58.866Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:08:59.097Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:01.719Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Spangler Box",
+        "image": "spangler-box",
+        "label": "Spangler Box",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:01.950Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:04.596Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:04.828Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:06.729Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:06.729Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:06.730Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:06.731Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:06.732Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:06.732Z",
+    "message": [
+      "stronglink: 0 amber dsadf: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:06.732Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:06.733Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:06.733Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:06.733Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:06.972Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:12.447Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:12.448Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:12.681Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:14.275Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:14.277Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Carlo Phantom",
+        "image": "carlo-phantom",
+        "label": "Carlo Phantom",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "dsadf",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:14.437Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:15.768Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Gateway to Dis",
+        "image": "gateway-to-dis",
+        "label": "Gateway to Dis",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:15.769Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Gateway to Dis",
+        "image": "gateway-to-dis",
+        "label": "Gateway to Dis",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy all creatures and gain 3 chains"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:15.772Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:15.772Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:15.922Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 3,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:17.236Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Succubus",
+        "image": "succubus",
+        "label": "Succubus",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:17.385Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 3,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:18.086Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:18.086Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:18.087Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:18.087Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:18.087Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      2
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:18.088Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:18.089Z",
+    "message": [
+      "stronglink: 2 amber dsadf: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:18.089Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:18.089Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:18.089Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:18.090Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:18.244Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:34.292Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "untamed",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:34.525Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:37.409Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:37.642Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:40.030Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Murmook",
+        "image": "murmook",
+        "label": "Murmook",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:40.272Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:44.397Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Niffle Ape",
+        "image": "niffle-ape",
+        "label": "Niffle Ape",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:44.628Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:09:56.622Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Troop Call",
+        "image": "troop-call",
+        "label": "Troop Call",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:56.623Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Troop Call",
+        "image": "troop-call",
+        "label": "Troop Call",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "return all friendly Niffle creatures from play and discard to hand"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:09:56.864Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:08.081Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Niffle Ape",
+        "image": "niffle-ape",
+        "label": "Niffle Ape",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:08.310Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:13.231Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:13.231Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:13.232Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:13.232Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:13.233Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:13.233Z",
+    "message": [
+      "stronglink: 2 amber dsadf: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:13.233Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:13.234Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:13.234Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      7,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:13.234Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:13.478Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:34.588Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:34.589Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:34.823Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:36.161Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:36.398Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:37.548Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "capture 3 amber from ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          },
+          ", placing it on ",
+          {
+            "message": [
+              {
+                "name": "Charette",
+                "image": "charette",
+                "label": "Charette",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:37.782Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:38.998Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "The Terror",
+        "image": "the-terror",
+        "label": "The Terror",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:39.231Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:39.913Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "The Terror",
+        "image": "the-terror",
+        "label": "The Terror",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 2 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:40.154Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:41.282Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Succubus",
+        "image": "succubus",
+        "label": "Succubus",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Succubus",
+                "image": "succubus",
+                "label": "Succubus",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:41.432Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:41.899Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:41.899Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:41.901Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:41.902Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:41.902Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      1
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:41.903Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:41.903Z",
+    "message": [
+      "stronglink: 5 amber dsadf: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:41.903Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:41.904Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:41.904Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:41.905Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:42.061Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:52.362Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:52.663Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:56.609Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:56.841Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:10:59.386Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Neuro Syphon",
+        "image": "neuro-syphon",
+        "label": "Neuro Syphon",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:59.387Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Neuro Syphon",
+        "image": "neuro-syphon",
+        "label": "Neuro Syphon",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal an amber and draw a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:10:59.624Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:04.482Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mother",
+        "image": "mother",
+        "label": "Mother",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:04.717Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:11.529Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Spangler Box",
+        "image": "spangler-box",
+        "label": "Spangler Box",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "purge a creature and give control to the other player"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:11.817Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:18.649Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:18.649Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:18.651Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:18.651Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:18.653Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:18.653Z",
+    "message": [
+      "stronglink: 4 amber dsadf: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:18.653Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:18.654Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:18.654Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      7,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:18.654Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:18.893Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:45.357Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:45.359Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:45.598Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:48.009Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Effervescent Principle",
+        "image": "effervescent-principle",
+        "label": "Effervescent Principle",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:48.010Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Effervescent Principle",
+        "image": "effervescent-principle",
+        "label": "Effervescent Principle",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain a chain and make both players lose half their amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:48.249Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:49.691Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Knowledge is Power",
+        "image": "knowledge-is-power",
+        "label": "Knowledge is Power",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:49.693Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Knowledge is Power",
+        "image": "knowledge-is-power",
+        "label": "Knowledge is Power",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:49.935Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:11:53.657Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Veylan Analyst",
+        "image": "veylan-analyst",
+        "label": "Veylan Analyst",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:11:53.891Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:01.026Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:01.027Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:01.028Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:01.028Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:01.029Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      1
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:01.031Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:01.031Z",
+    "message": [
+      "stronglink: 2 amber dsadf: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:01.031Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:01.032Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:01.032Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:01.032Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:01.279Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:17.652Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:17.889Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:26.160Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " moves all the cards in their archives to their hand"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:26.161Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:26.472Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:29.637Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Hand of Dis",
+        "image": "hand-of-dis",
+        "label": "Hand of Dis",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:29.951Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:31.245Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Hand of Dis",
+        "image": "hand-of-dis",
+        "label": "Hand of Dis",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy ",
+          {
+            "message": [
+              {
+                "name": "The Terror",
+                "image": "the-terror",
+                "label": "The Terror",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:31.248Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:31.586Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:36.316Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Lifeward",
+        "image": "lifeward",
+        "label": "Lifeward",
+        "type": "artifact",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:36.562Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:12:41.729Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:12:41.967Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:07.529Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:07.530Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:07.532Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:07.532Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:07.534Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:07.534Z",
+    "message": [
+      "stronglink: 3 amber dsadf: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:07.534Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:07.535Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:07.536Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      7,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:07.536Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:07.855Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:14.086Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:14.688Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:16.116Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:16.268Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:18.102Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Effervescent Principle",
+        "image": "effervescent-principle",
+        "label": "Effervescent Principle",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:18.103Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Effervescent Principle",
+        "image": "effervescent-principle",
+        "label": "Effervescent Principle",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain a chain and make both players lose half their amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:18.257Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:22.092Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Veylan Analyst",
+        "image": "veylan-analyst",
+        "label": "Veylan Analyst",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Veylan Analyst",
+                "image": "veylan-analyst",
+                "label": "Veylan Analyst",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:22.292Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:24.834Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Spangler Box",
+        "image": "spangler-box",
+        "label": "Spangler Box",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "purge a creature and give control to the other player"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:24.840Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Veylan Analyst",
+        "image": "veylan-analyst",
+        "label": "Veylan Analyst",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:25.089Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:28.428Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Wild Wormhole",
+        "image": "wild-wormhole",
+        "label": "Wild Wormhole",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:28.429Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Wild Wormhole",
+        "image": "wild-wormhole",
+        "label": "Wild Wormhole",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "play the top card of their deck",
+          ": ",
+          {
+            "name": "Dodger",
+            "image": "dodger",
+            "label": "Dodger",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:28.430Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dodger",
+        "image": "dodger",
+        "label": "Dodger",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:28.672Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:31.593Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Doc Bookton",
+        "image": "doc-bookton",
+        "label": "Doc Bookton",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:31.747Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 2,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:33.297Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:33.297Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:33.299Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:33.299Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:33.299Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      1
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:33.300Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:33.301Z",
+    "message": [
+      "stronglink: 5 amber dsadf: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:33.301Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:33.301Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:33.301Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:13:33.302Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:13:33.544Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:14:05.080Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "untamed",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:14:05.081Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:14:05.389Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:14:11.690Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Regrowth",
+        "image": "regrowth",
+        "label": "Regrowth",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:14:11.929Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:14:13.790Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Regrowth",
+        "image": "regrowth",
+        "label": "Regrowth",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "return ",
+          {
+            "message": [
+              {
+                "name": "Quixo the \"Adventurer\"",
+                "image": "quixo-the-adventurer",
+                "label": "Quixo the \"Adventurer\"",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " to their hand"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:14:14.092Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:14:34.258Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Niffle Ape",
+        "image": "niffle-ape",
+        "label": "Niffle Ape",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Niffle Ape",
+            "image": "niffle-ape",
+            "label": "Niffle Ape",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Succubus",
+                "image": "succubus",
+                "label": "Succubus",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:14:34.262Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:14:34.264Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:14:34.505Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:14:42.456Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Murmook",
+        "image": "murmook",
+        "label": "Murmook",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Murmook",
+            "image": "murmook",
+            "label": "Murmook",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Veylan Analyst",
+                "image": "veylan-analyst",
+                "label": "Veylan Analyst",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:14:42.460Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:14:42.700Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:04.038Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Lifeward",
+        "image": "lifeward",
+        "label": "Lifeward",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " unable to play creatures on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:04.370Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 1,
+        "keys": 0
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:05.796Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:05.796Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:05.798Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:05.798Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:05.798Z",
+    "message": [
+      "stronglink: 7 amber dsadf: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:05.798Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:05.798Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:05.799Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      7,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:05.799Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:06.043Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:36.689Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:36.931Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:39.310Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " moves all the cards in their archives to their hand"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:39.311Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:39.557Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:41.652Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dodger",
+        "image": "dodger",
+        "label": "Dodger",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Dodger",
+            "image": "dodger",
+            "label": "Dodger",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Murmook",
+                "image": "murmook",
+                "label": "Murmook",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:41.656Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:41.657Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dodger",
+        "image": "dodger",
+        "label": "Dodger",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "dsadf",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:41.821Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 1,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:45.188Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Masterplan",
+        "image": "masterplan",
+        "label": "Masterplan",
+        "type": "artifact",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:45.451Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:46.680Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Masterplan",
+        "image": "masterplan",
+        "label": "Masterplan",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "place a card under ",
+          {
+            "name": "Masterplan",
+            "image": "masterplan",
+            "label": "Masterplan",
+            "type": "artifact",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:46.933Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:50.480Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Poison Wave",
+        "image": "poison-wave",
+        "label": "Poison Wave",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:50.482Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Poison Wave",
+        "image": "poison-wave",
+        "label": "Poison Wave",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 2 damage to all creatures"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:50.485Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:50.486Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 2 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:50.488Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:50.729Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:51.807Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:51.808Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:51.809Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:51.809Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:51.809Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      0
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:51.811Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:51.811Z",
+    "message": [
+      "stronglink: 4 amber dsadf: 7 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:51.811Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:51.812Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:51.812Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:51.812Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:52.054Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:54.749Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:54.750Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:55.100Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:15:59.180Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Spangler Box",
+        "image": "spangler-box",
+        "label": "Spangler Box",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "purge a creature and give control to the other player"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:15:59.421Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:03.562Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:03.806Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:08.521Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:08.773Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:11.838Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:12.163Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:14.716Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:16.392Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:20.274Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:20.274Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:20.275Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:20.275Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:20.276Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:20.277Z",
+    "message": [
+      "stronglink: 4 amber dsadf: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:20.277Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:20.277Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:20.277Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:20.277Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:20.450Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:40.925Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:40.925Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:41.232Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:43.932Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Masterplan",
+        "image": "masterplan",
+        "label": "Masterplan",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "play ",
+          {
+            "name": "Wild Wormhole",
+            "image": "wild-wormhole",
+            "label": "Wild Wormhole",
+            "type": "action",
+            "argType": "card"
+          },
+          " and sacrifice ",
+          {
+            "name": "Masterplan",
+            "image": "masterplan",
+            "label": "Masterplan",
+            "type": "artifact",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:43.933Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Wild Wormhole",
+        "image": "wild-wormhole",
+        "label": "Wild Wormhole",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:43.934Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Wild Wormhole",
+        "image": "wild-wormhole",
+        "label": "Wild Wormhole",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "play the top card of their deck",
+          ": ",
+          {
+            "name": "Ghostly Hand",
+            "image": "ghostly-hand",
+            "label": "Ghostly Hand",
+            "type": "action",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:43.935Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ghostly Hand",
+        "image": "ghostly-hand",
+        "label": "Ghostly Hand",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:44.263Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:47.460Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Subtle Maul",
+        "image": "subtle-maul",
+        "label": "Subtle Maul",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:47.702Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:49.817Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Shadow Self",
+        "image": "shadow-self",
+        "label": "Shadow Self",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:50.143Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:53.282Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:53.283Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:53.284Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:53.284Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:53.284Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:53.286Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:53.286Z",
+    "message": [
+      "stronglink: 7 amber dsadf: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:53.286Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:53.287Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:53.287Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:16:53.287Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:16:53.632Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:01.721Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:02.043Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:08.115Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:08.443Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:13.595Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dominator Bauble",
+        "image": "dominator-bauble",
+        "label": "Dominator Bauble",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:13.916Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:23.182Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Red-Hot Armor",
+        "image": "red-hot-armor",
+        "label": "Red-Hot Armor",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:23.511Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:35.199Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:35.443Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:37.277Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "force ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " to choose ",
+          "dis",
+          " as their active house on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:37.604Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:43.699Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Arise!",
+        "image": "arise",
+        "label": "Arise!",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:44.098Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:49.106Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Arise!",
+        "image": "arise",
+        "label": "Arise!",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "return ",
+          "",
+          " to their hand"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:49.434Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:53.718Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:53.718Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:53.720Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:53.720Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:53.720Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      0
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:53.722Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:53.723Z",
+    "message": [
+      "stronglink: 7 amber dsadf: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:53.723Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:53.724Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:53.724Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:17:53.725Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:17:54.139Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:13.374Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:18:13.375Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:13.624Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:14.933Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "The Terror",
+        "image": "the-terror",
+        "label": "The Terror",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:18:15.091Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:18.014Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Stealer of Souls",
+        "image": "stealer-of-souls",
+        "label": "Stealer of Souls",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:18:18.250Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:20.702Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Library of the Damned",
+        "image": "library-of-the-damned",
+        "label": "Library of the Damned",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:18:21.040Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:22.194Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:22.195Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:18:22.197Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:22.197Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T04:18:22.200Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:22.200Z",
+    "message": [
+      "stronglink: 1 amber dsadf: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:18:22.200Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:22.201Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:22.202Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:18:22.203Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:22.557Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:30.274Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:18:30.610Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:33.384Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " moves all the cards in their archives to their hand"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:18:33.385Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:33.711Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:18:55.512Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dominator Bauble",
+        "image": "dominator-bauble",
+        "label": "Dominator Bauble",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "use ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:18:55.889Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:00.314Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:00.651Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:07.281Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:07.662Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:23.954Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Gateway to Dis",
+        "image": "gateway-to-dis",
+        "label": "Gateway to Dis",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:23.955Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Gateway to Dis",
+        "image": "gateway-to-dis",
+        "label": "Gateway to Dis",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy all creatures and gain 3 chains"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:23.961Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:23.962Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:23.963Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:23.963Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:23.964Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:24.355Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 7,
+        "chains": 3,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:28.851Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Tentacus",
+        "image": "tentacus",
+        "label": "Tentacus",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:29.266Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 7,
+        "chains": 3,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:38.087Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:38.087Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:38.088Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:38.088Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:38.089Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      2
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:38.089Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:38.090Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:38.090Z",
+    "message": [
+      "stronglink: 4 amber dsadf: 7 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:38.090Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:38.090Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:38.090Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:38.091Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:38.424Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 7,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:51.153Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:51.154Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:51.485Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 7,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:52.794Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Skippy Timehog",
+        "image": "skippy-timehog",
+        "label": "Skippy Timehog",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:52.796Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Skippy Timehog",
+        "image": "skippy-timehog",
+        "label": "Skippy Timehog",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "stop ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          },
+          " from using any cards next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:53.037Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 7,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:56.593Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Spangler Box",
+        "image": "spangler-box",
+        "label": "Spangler Box",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "purge a creature and give control to the other player"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:56.769Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 8,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:19:58.432Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:19:58.592Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 8,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:00.863Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Experimental Therapy",
+        "image": "experimental-therapy",
+        "label": "Experimental Therapy",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ",",
+      " attaching it to ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:00.865Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Experimental Therapy",
+        "image": "experimental-therapy",
+        "label": "Experimental Therapy",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "exhaust ",
+          {
+            "message": [
+              {
+                "name": "Quixo the \"Adventurer\"",
+                "image": "quixo-the-adventurer",
+                "label": "Quixo the \"Adventurer\"",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:01.052Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 8,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:02.793Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:02.793Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:02.795Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:02.796Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:02.797Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:02.797Z",
+    "message": [
+      "stronglink: 3 amber dsadf: 8 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:02.797Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:02.798Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:02.798Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:02.799Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:03.176Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:37.173Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:37.502Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:41.614Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:41.941Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:45.887Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mother",
+        "image": "mother",
+        "label": "Mother",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:46.276Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:55.843Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:55.843Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:55.859Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:55.859Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:55.860Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      1
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:55.861Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:55.861Z",
+    "message": [
+      "stronglink: 3 amber dsadf: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:55.861Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:55.869Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:55.870Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:20:55.870Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:20:56.129Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:13.353Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:13.354Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:13.682Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:15.066Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:15.232Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:18.001Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:18.239Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:18.761Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "capture 3 amber from ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          },
+          ", placing it on ",
+          {
+            "message": [
+              {
+                "name": "Charette",
+                "image": "charette",
+                "label": "Charette",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:18.924Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:23.481Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Flame-Wreathed",
+        "image": "flame-wreathed",
+        "label": "Flame-Wreathed",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ", gaining 1 amber",
+      " attaching it to ",
+      {
+        "name": "Skippy Timehog",
+        "image": "skippy-timehog",
+        "label": "Skippy Timehog",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:23.666Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:25.757Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Gateway to Dis",
+        "image": "gateway-to-dis",
+        "label": "Gateway to Dis",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:25.759Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Gateway to Dis",
+        "image": "gateway-to-dis",
+        "label": "Gateway to Dis",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy all creatures and gain 3 chains"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:25.762Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 2 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:25.772Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:25.773Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:25.774Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:25.775Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:25.775Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soul Snatcher",
+        "image": "soul-snatcher",
+        "label": "Soul Snatcher",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:26.111Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 3,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:28.374Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Library of the Damned",
+        "image": "library-of-the-damned",
+        "label": "Library of the Damned",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:28.566Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 3,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:28.939Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:28.940Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:28.941Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:28.941Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:28.941Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      2
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:28.941Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:28.944Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:28.944Z",
+    "message": [
+      "stronglink: 10 amber dsadf: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:28.944Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:28.944Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:28.945Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T04:21:28.945Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:21:29.113Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 2,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:22:13.140Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "untamed",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:22:13.469Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 2,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:22:16.145Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " moves all the cards in their archives to their hand"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:22:16.146Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:22:16.476Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 2,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:22:46.900Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Mimicry",
+        "image": "mimicry",
+        "label": "Mimicry",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "to copy ",
+          {
+            "name": "Wild Wormhole",
+            "image": "wild-wormhole",
+            "label": "Wild Wormhole",
+            "type": "action",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:22:46.902Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mimicry",
+        "image": "mimicry",
+        "label": "Mimicry",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:22:46.904Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Mimicry",
+        "image": "mimicry",
+        "label": "Mimicry",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "play the top card of their deck",
+          ": ",
+          {
+            "name": "Witch of the Eye",
+            "image": "witch-of-the-eye",
+            "label": "Witch of the Eye",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:22:46.905Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Witch of the Eye",
+        "image": "witch-of-the-eye",
+        "label": "Witch of the Eye",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:22:47.318Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 2,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:22:56.113Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Way of the Bear",
+        "image": "way-of-the-bear",
+        "label": "Way of the Bear",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ", gaining 1 amber",
+      " attaching it to ",
+      {
+        "name": "Witch of the Eye",
+        "image": "witch-of-the-eye",
+        "label": "Witch of the Eye",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:22:56.527Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 2,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:22:59.765Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Fogbank",
+        "image": "fogbank",
+        "label": "Fogbank",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:22:59.766Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Fogbank",
+        "image": "fogbank",
+        "label": "Fogbank",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "stop ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " from fighting next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T04:23:00.101Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 2,
+        "keys": 2
+      },
+      "dsadf": {
+        "amber": 6,
+        "chains": 1,
+        "keys": 2
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:23:02.826Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:23:02.826Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:23:02.827Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:23:02.828Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-02T04:23:02.828Z",
+    "message": [
+      {
+        "name": "dsadf",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      0
+    ]
+  },
+  {
+    "date": "2019-05-02T04:23:02.828Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "dsadf",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:23:02.829Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:23:02.829Z",
+    "message": [
+      "stronglink: 10 amber dsadf: 6 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:23:02.829Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 11"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:23:02.830Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:23:02.830Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T04:23:02.830Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " has won the game"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T04:23:03.002Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 2,
+        "keys": 3
+      },
+      "dsadf": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      }
+    }
+  }
+]

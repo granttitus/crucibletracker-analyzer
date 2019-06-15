@@ -1,0 +1,6606 @@
+[
+  {
+    "date": "2019-05-08T15:21:53.898Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:21:53.905Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:21:53.905Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/3f0e9806-20e1-4da4-8df2-0243fd12c5f9",
+        "label": "Odin E. l’Aggressivo"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:21:53.905Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/efe0df68-e73d-4cd8-a59f-43359c032b24",
+        "label": "Xin the Heroically Languid"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:21:54.845Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:21:55.201Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:21:58.408Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:00.170Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:27.096Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:27.096Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:27.096Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:27.346Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:27.847Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:27.847Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:28.081Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:29.157Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Novu Archaeologist",
+        "image": "novu-archaeologist",
+        "label": "Novu Archaeologist",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:29.492Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:29.787Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:29.787Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:29.788Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:29.788Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:29.788Z",
+    "message": [
+      "Nerapiuma: 0 amber stronglink: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:29.788Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:29.789Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:29.789Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:29.789Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:29.950Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:41.138Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:41.138Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:41.381Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:44.264Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Glorious Few",
+        "image": "glorious-few",
+        "label": "Glorious Few",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:44.266Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Glorious Few",
+        "image": "glorious-few",
+        "label": "Glorious Few",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:44.505Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:46.660Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Numquid the Fair",
+        "image": "numquid-the-fair",
+        "label": "Numquid the Fair",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:46.911Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:47.470Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Numquid the Fair",
+        "image": "numquid-the-fair",
+        "label": "Numquid the Fair",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy ",
+          {
+            "message": [
+              {
+                "name": "Novu Archaeologist",
+                "image": "novu-archaeologist",
+                "label": "Novu Archaeologist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:47.717Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:49.371Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Champion Anaphiel",
+        "image": "champion-anaphiel",
+        "label": "Champion Anaphiel",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:49.527Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:51.206Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Shield of Justice",
+        "image": "shield-of-justice",
+        "label": "Shield of Justice",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:51.207Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Shield of Justice",
+        "image": "shield-of-justice",
+        "label": "Shield of Justice",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "prevent their creatures from taking damage this turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:51.459Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:52.061Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:52.061Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:52.063Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:52.063Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:52.065Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:52.065Z",
+    "message": [
+      "Nerapiuma: 0 amber stronglink: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:52.065Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:52.066Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:52.067Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:22:52.067Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:22:52.329Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:14.175Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:14.176Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:14.450Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:16.160Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pawn Sacrifice",
+        "image": "pawn-sacrifice",
+        "label": "Pawn Sacrifice",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:16.412Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:17.626Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "name": "Key of Darkness",
+        "image": "key-of-darkness",
+        "label": "Key of Darkness",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:17.849Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:19.160Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Noddy the Thief",
+        "image": "noddy-the-thief",
+        "label": "Noddy the Thief",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:19.381Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:20.440Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:20.440Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:20.441Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:20.441Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:20.442Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:20.442Z",
+    "message": [
+      "Nerapiuma: 1 amber stronglink: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:20.442Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:20.443Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:20.443Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:20.443Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:20.702Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:28.723Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:28.724Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:28.969Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:38.208Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:38.456Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:40.629Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dr. Escotera",
+        "image": "dr-escotera",
+        "label": "Dr. Escotera",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:40.873Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:44.925Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Foggify",
+        "image": "foggify",
+        "label": "Foggify",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:44.930Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Foggify",
+        "image": "foggify",
+        "label": "Foggify",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "stop ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          },
+          " from fighting next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:45.177Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:49.415Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:49.417Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "allow them to play one non-Logos card this turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:49.664Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:51.023Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:51.024Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "discard a card at random"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:51.025Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "message": [
+          {
+            "name": "Help From Future Self",
+            "image": "help-from-future-self",
+            "label": "Help From Future Self",
+            "type": "action",
+            "argType": "card"
+          }
+        ]
+      },
+      " at random"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:51.277Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:52.912Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:52.912Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:52.913Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:52.913Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      5,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:52.915Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:52.915Z",
+    "message": [
+      "Nerapiuma: 1 amber stronglink: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:52.915Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:52.916Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:52.916Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:23:52.917Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:23:53.245Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:28.254Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:24:28.255Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:28.590Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:30.265Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:24:30.427Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:41.686Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Poltergeist",
+        "image": "poltergeist",
+        "label": "Poltergeist",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:24:42.006Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:43.095Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Key to Dis",
+        "image": "key-to-dis",
+        "label": "Key to Dis",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:24:43.438Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:43.848Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:43.848Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:24:43.850Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:43.850Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-08T15:24:43.852Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:43.852Z",
+    "message": [
+      "Nerapiuma: 2 amber stronglink: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:24:43.852Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:43.853Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:43.854Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:24:43.854Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:24:44.079Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:13.900Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:13.901Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:14.183Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:18.481Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Champion Anaphiel",
+        "image": "champion-anaphiel",
+        "label": "Champion Anaphiel",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:18.725Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:21.104Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Staunch Knight",
+        "image": "staunch-knight",
+        "label": "Staunch Knight",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:21.351Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:23.622Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Shoulder Armor",
+        "image": "shoulder-armor",
+        "label": "Shoulder Armor",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ", gaining 1 amber",
+      " attaching it to ",
+      {
+        "name": "Staunch Knight",
+        "image": "staunch-knight",
+        "label": "Staunch Knight",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:23.794Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:25.659Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Numquid the Fair",
+        "image": "numquid-the-fair",
+        "label": "Numquid the Fair",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Numquid the Fair",
+                "image": "numquid-the-fair",
+                "label": "Numquid the Fair",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:25.906Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:28.044Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Champion Anaphiel",
+        "image": "champion-anaphiel",
+        "label": "Champion Anaphiel",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Champion Anaphiel",
+                "image": "champion-anaphiel",
+                "label": "Champion Anaphiel",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:28.294Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:29.652Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:29.652Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:29.654Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:29.654Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:29.655Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:29.656Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:29.657Z",
+    "message": [
+      "Nerapiuma: 2 amber stronglink: 7 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:29.657Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:29.658Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:29.658Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:29.658Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:29.914Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:49.509Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:49.511Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:49.797Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:52.551Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Key to Dis",
+        "image": "key-to-dis",
+        "label": "Key to Dis",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "sacrifice ",
+          {
+            "message": [
+              {
+                "name": "Key to Dis",
+                "image": "key-to-dis",
+                "label": "Key to Dis",
+                "type": "artifact",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:52.553Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 2 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:52.877Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:55.823Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:55.826Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Timetraveller",
+        "image": "timetraveller",
+        "label": "Timetraveller",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw 2 cards"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:56.062Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:57.871Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mother",
+        "image": "mother",
+        "label": "Mother",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:58.107Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:25:59.846Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Interdimensional Graft",
+        "image": "interdimensional-graft",
+        "label": "Interdimensional Graft",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:25:59.848Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Interdimensional Graft",
+        "image": "interdimensional-graft",
+        "label": "Interdimensional Graft",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "take any remaining amber from ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " if they forge a key next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:00.021Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:01.585Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:01.585Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:01.594Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:01.595Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      7
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:01.595Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:01.596Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:01.596Z",
+    "message": [
+      "Nerapiuma: 6 amber stronglink: 7 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:01.596Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:01.597Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:01.598Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:01.599Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:01.889Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:08.453Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:08.454Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:08.718Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:10.828Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Tendrils of Pain",
+        "image": "tendrils-of-pain",
+        "label": "Tendrils of Pain",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:10.829Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tendrils of Pain",
+        "image": "tendrils-of-pain",
+        "label": "Tendrils of Pain",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal ",
+          1,
+          " damage to all creatures"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:11.084Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:13.212Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Fear",
+        "image": "fear",
+        "label": "Fear",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:13.474Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:14.664Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Fear",
+        "image": "fear",
+        "label": "Fear",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "return ",
+          {
+            "message": [
+              {
+                "name": "Mother",
+                "image": "mother",
+                "label": "Mother",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " to their hand"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:14.925Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:19.090Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pandemonium",
+        "image": "pandemonium",
+        "label": "Pandemonium",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:19.348Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:27.820Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:28.070Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:28.939Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "force ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          },
+          " to choose ",
+          "shadows",
+          " as their active house on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:29.194Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:30.829Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:30.829Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:30.830Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:30.830Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:30.832Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:30.832Z",
+    "message": [
+      "Nerapiuma: 7 amber stronglink: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:30.832Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:30.834Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:30.835Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:30.835Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:31.098Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:32.341Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:32.341Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:32.601Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:34.014Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dodger",
+        "image": "dodger",
+        "label": "Dodger",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:34.237Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:45.846Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Silent Dagger",
+        "image": "silent-dagger",
+        "label": "Silent Dagger",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ", gaining 1 amber",
+      " attaching it to ",
+      {
+        "name": "Dodger",
+        "image": "dodger",
+        "label": "Dodger",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:46.102Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:48.021Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:48.021Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:48.023Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:48.023Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:48.023Z",
+    "message": [
+      "Nerapiuma: 2 amber stronglink: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:48.023Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:48.024Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:48.028Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:48.028Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:48.378Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:52.924Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:52.925Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:53.194Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:55.164Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Skippy Timehog",
+        "image": "skippy-timehog",
+        "label": "Skippy Timehog",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:55.167Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Skippy Timehog",
+        "image": "skippy-timehog",
+        "label": "Skippy Timehog",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "stop ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          },
+          " from using any cards next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:55.345Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:26:57.584Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Batdrone",
+        "image": "batdrone",
+        "label": "Batdrone",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:26:57.842Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:00.485Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:00.745Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:07.022Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Rocket Boots",
+        "image": "rocket-boots",
+        "label": "Rocket Boots",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ",",
+      " attaching it to ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:07.288Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:09.509Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:09.509Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:09.510Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:09.510Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:09.512Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:09.513Z",
+    "message": [
+      "Nerapiuma: 2 amber stronglink: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:09.513Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:09.513Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:09.514Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:09.514Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:09.781Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:15.373Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:15.374Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:15.713Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:18.341Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Gateway to Dis",
+        "image": "gateway-to-dis",
+        "label": "Gateway to Dis",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:18.343Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Gateway to Dis",
+        "image": "gateway-to-dis",
+        "label": "Gateway to Dis",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy all creatures and gain 3 chains"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:18.692Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 3,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:20.605Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:20.862Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 3,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:21.765Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "force ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " to choose ",
+          "logos",
+          " as their active house on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:22.026Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 3,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:23.118Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Succubus",
+        "image": "succubus",
+        "label": "Succubus",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:23.383Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 3,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:24.517Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Stealer of Souls",
+        "image": "stealer-of-souls",
+        "label": "Stealer of Souls",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:24.740Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 3,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:27.958Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:27.958Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:27.959Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:27.960Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:27.960Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      2
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:27.962Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:27.962Z",
+    "message": [
+      "Nerapiuma: 3 amber stronglink: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:27.962Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:27.963Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:27.963Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:27.963Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:28.316Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:29.138Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:29.139Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:29.394Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:30.593Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:30.850Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:31.543Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:31.543Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:31.544Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:31.544Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:31.544Z",
+    "message": [
+      "Nerapiuma: 3 amber stronglink: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:31.544Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:31.545Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:31.545Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:31.545Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:31.814Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:39.156Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:39.157Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:39.476Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:41.613Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Stealer of Souls",
+        "image": "stealer-of-souls",
+        "label": "Stealer of Souls",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Stealer of Souls",
+            "image": "stealer-of-souls",
+            "label": "Stealer of Souls",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Quixo the \"Adventurer\"",
+                "image": "quixo-the-adventurer",
+                "label": "Quixo the \"Adventurer\"",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:41.617Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Stealer of Souls",
+        "image": "stealer-of-souls",
+        "label": "Stealer of Souls",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "purge ",
+          {
+            "message": [
+              {
+                "name": "Quixo the \"Adventurer\"",
+                "image": "quixo-the-adventurer",
+                "label": "Quixo the \"Adventurer\"",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:41.849Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 4,
+        "chains": 2,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:43.494Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Succubus",
+        "image": "succubus",
+        "label": "Succubus",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Succubus",
+                "image": "succubus",
+                "label": "Succubus",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:43.775Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 5,
+        "chains": 2,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:49.244Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:49.685Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 5,
+        "chains": 2,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:50.120Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "capture 3 amber from ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          ", placing it on ",
+          {
+            "message": [
+              {
+                "name": "Charette",
+                "image": "charette",
+                "label": "Charette",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:50.347Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 5,
+        "chains": 2,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:51.742Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:51.981Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 2,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:52.845Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "force ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " to choose ",
+          "logos",
+          " as their active house on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:53.198Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 2,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:53.710Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:53.710Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:53.712Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:53.712Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:53.712Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      1
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:53.712Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:53.713Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:53.713Z",
+    "message": [
+      "Nerapiuma: 6 amber stronglink: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:53.713Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:53.714Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:53.714Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:53.714Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:53.937Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 1,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:55.395Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:55.396Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:55.740Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 1,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:56.621Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:56.621Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:56.622Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:56.622Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:56.622Z",
+    "message": [
+      "Nerapiuma: 6 amber stronglink: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:56.622Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:56.623Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:56.623Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:27:56.623Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:27:56.968Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:04.237Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:04.237Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:04.651Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:06.230Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Charette",
+                "image": "charette",
+                "label": "Charette",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:06.511Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 1,
+        "chains": 1,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:07.446Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Stealer of Souls",
+        "image": "stealer-of-souls",
+        "label": "Stealer of Souls",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Stealer of Souls",
+                "image": "stealer-of-souls",
+                "label": "Stealer of Souls",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:07.738Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:08.485Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Succubus",
+        "image": "succubus",
+        "label": "Succubus",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Succubus",
+                "image": "succubus",
+                "label": "Succubus",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:08.678Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:09.965Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:10.212Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:11.157Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:11.157Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:11.159Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:11.159Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:11.159Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      0
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:11.160Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:11.160Z",
+    "message": [
+      "Nerapiuma: 3 amber stronglink: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:11.160Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:11.162Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:11.163Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:11.163Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:11.448Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:22.149Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:22.149Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:22.500Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:23.859Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Glorious Few",
+        "image": "glorious-few",
+        "label": "Glorious Few",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:23.860Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Glorious Few",
+        "image": "glorious-few",
+        "label": "Glorious Few",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 4 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:24.227Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:25.682Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Commander Remiel",
+        "image": "commander-remiel",
+        "label": "Commander Remiel",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:25.861Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:26.492Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:26.492Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:26.493Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:26.493Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:26.498Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:26.498Z",
+    "message": [
+      "Nerapiuma: 3 amber stronglink: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:26.498Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:26.499Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:26.499Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:26.499Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:26.682Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:38.756Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:38.762Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:39.188Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:40.590Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pit Demon",
+        "image": "pit-demon",
+        "label": "Pit Demon",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:40.782Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:44.430Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Dust Imp",
+                "image": "dust-imp",
+                "label": "Dust Imp",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:44.795Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:46.222Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Charette",
+                "image": "charette",
+                "label": "Charette",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:46.550Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:47.510Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Stealer of Souls",
+        "image": "stealer-of-souls",
+        "label": "Stealer of Souls",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Stealer of Souls",
+                "image": "stealer-of-souls",
+                "label": "Stealer of Souls",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:47.695Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:48.661Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Succubus",
+        "image": "succubus",
+        "label": "Succubus",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Succubus",
+                "image": "succubus",
+                "label": "Succubus",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:48.923Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:49.365Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:49.365Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:49.367Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:49.367Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:49.367Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:49.368Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:49.368Z",
+    "message": [
+      "Nerapiuma: 7 amber stronglink: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:49.368Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:49.369Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:49.369Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:49.370Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:49.560Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:58.348Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:58.348Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:58.706Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:28:59.545Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Shooler",
+        "image": "shooler",
+        "label": "Shooler",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:28:59.732Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:00.252Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Shooler",
+        "image": "shooler",
+        "label": "Shooler",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "Nerapiuma",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:29:00.521Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:01.638Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:29:01.821Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:03.662Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "force ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          },
+          " to choose ",
+          "logos",
+          " as their active house on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:29:04.025Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:05.216Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:29:05.400Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:05.833Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "force ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          },
+          " to choose ",
+          "logos",
+          " as their active house on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-08T15:29:06.027Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:07.757Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Sacrificial Altar",
+        "image": "sacrificial-altar",
+        "label": "Sacrificial Altar",
+        "type": "artifact",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:29:08.028Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:08.984Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:08.984Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:29:08.985Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:08.985Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-08T15:29:08.985Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:08.987Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:08.987Z",
+    "message": [
+      "Nerapiuma: 6 amber stronglink: 8 amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:29:08.987Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:08.989Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:08.989Z",
+    "message": [
+      {
+        "name": "Nerapiuma",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-08T15:29:08.990Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Nerapiuma",
+            "argType": "nonAvatarPlayer"
+          },
+          " has won the game"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-08T15:29:09.347Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Nerapiuma": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 3
+      },
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,9811 @@
+[
+  {
+    "date": "2019-05-02T21:28:08.408Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:28:08.414Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:28:08.415Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/9614e775-9527-4720-a0ea-f34ca282ac7d",
+        "label": "Gesa „Das Stinktier“, Botin der Kammer"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:28:08.415Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/76e1f3ae-f58f-4162-8299-93b8765bd0ab",
+        "label": "Thidrik, Novice of the Talented Shop"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:28:08.565Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:08.883Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:10.460Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:36.788Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:28:36.791Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:36.791Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:28:36.791Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:37.132Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:45.862Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:28:45.862Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:46.098Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:48.261Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:28:48.498Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:48.970Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:48.970Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:28:48.971Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:48.971Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:48.971Z",
+    "message": [
+      "Jaho: 0 amber stronglink: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:28:48.971Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:48.971Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:48.972Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:28:48.972Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:28:49.129Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:02.377Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:02.377Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:02.695Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:04.004Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Old Bruno",
+        "image": "old-bruno",
+        "label": "Old Bruno",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:04.240Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:05.957Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Seeker Needle",
+        "image": "seeker-needle",
+        "label": "Seeker Needle",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:06.194Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:07.019Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:07.019Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:07.021Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:07.021Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:07.023Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:07.023Z",
+    "message": [
+      "Jaho: 0 amber stronglink: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:07.023Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:07.024Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:07.024Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:07.024Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:07.347Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:10.052Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:10.053Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:10.293Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:11.777Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Oubliette",
+        "image": "oubliette",
+        "label": "Oubliette",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:12.026Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:12.541Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Oubliette",
+        "image": "oubliette",
+        "label": "Oubliette",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "purge ",
+          {
+            "message": [
+              {
+                "name": "Old Bruno",
+                "image": "old-bruno",
+                "label": "Old Bruno",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:12.778Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:14.642Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Safe Place",
+        "image": "safe-place",
+        "label": "Safe Place",
+        "type": "artifact",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:15.218Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:16.127Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mooncurser",
+        "image": "mooncurser",
+        "label": "Mooncurser",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:16.280Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:17.355Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:17.355Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:17.357Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:17.357Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:17.358Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:17.358Z",
+    "message": [
+      "Jaho: 0 amber stronglink: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:17.358Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:17.359Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:17.359Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:17.359Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:17.540Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:27.370Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:27.371Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:27.719Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:29.975Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Seeker Needle",
+        "image": "seeker-needle",
+        "label": "Seeker Needle",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal damage to ",
+          {
+            "message": [
+              {
+                "name": "Mooncurser",
+                "image": "mooncurser",
+                "label": "Mooncurser",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:30.184Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:32.011Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Shadow Self",
+        "image": "shadow-self",
+        "label": "Shadow Self",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:32.257Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:39.470Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:39.470Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:39.472Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:39.472Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:39.473Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:39.473Z",
+    "message": [
+      "Jaho: 1 amber stronglink: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:39.473Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:39.474Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:39.474Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:39.474Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:39.811Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:58.575Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "mars",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:29:58.576Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:29:58.819Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:02.646Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "name": "Sample Collection",
+        "image": "sample-collection",
+        "label": "Sample Collection",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:30:02.910Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:04.504Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "\"John Smyth\"",
+        "image": "john-smyth",
+        "label": "\"John Smyth\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:30:04.744Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:06.236Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:30:06.476Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:08.329Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "\"John Smyth\"",
+        "image": "john-smyth",
+        "label": "\"John Smyth\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:30:08.483Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:08.858Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "heal ",
+          {
+            "message": [
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " fully"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:30:09.016Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:10.150Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "name": "Phosphorus Stars",
+        "image": "phosphorus-stars",
+        "label": "Phosphorus Stars",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:30:10.401Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:10.589Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:10.589Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:30:10.591Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:10.591Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      5,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:30:10.593Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:10.593Z",
+    "message": [
+      "Jaho: 1 amber stronglink: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:30:10.593Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:10.594Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:10.594Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:30:10.594Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:30:10.756Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:12.914Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "untamed",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:12.915Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:13.195Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:17.540Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Lifeweb",
+        "image": "lifeweb",
+        "label": "Lifeweb",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:17.541Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Lifeweb",
+        "image": "lifeweb",
+        "label": "Lifeweb",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 2 amber from ",
+          {
+            "message": [
+              {
+                "name": "stronglink",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:17.790Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:21.089Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Halacor",
+        "image": "halacor",
+        "label": "Halacor",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:21.345Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:25.187Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Fuzzy Gruen",
+        "image": "fuzzy-gruen",
+        "label": "Fuzzy Gruen",
+        "type": "creature",
+        "argType": "card"
+      },
+      ", gaining 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:25.432Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:26.209Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Fuzzy Gruen",
+        "image": "fuzzy-gruen",
+        "label": "Fuzzy Gruen",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          " gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:26.509Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:27.828Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:27.828Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:27.830Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:27.830Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:27.832Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:27.832Z",
+    "message": [
+      "Jaho: 5 amber stronglink: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:27.832Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:27.833Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:27.833Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:27.833Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:28.093Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:31.260Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:31.261Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:31.507Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:33.176Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Banner of Battle",
+        "image": "banner-of-battle",
+        "label": "Banner of Battle",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:33.427Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:35.967Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Screechbomb",
+        "image": "screechbomb",
+        "label": "Screechbomb",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:36.213Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:43.721Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Krump",
+                "image": "krump",
+                "label": "Krump",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:43.974Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:45.317Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Relentless Assault",
+        "image": "relentless-assault",
+        "label": "Relentless Assault",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:45.572Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:51.118Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Relentless Assault",
+        "image": "relentless-assault",
+        "label": "Relentless Assault",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "ready and fight with ",
+          {
+            "message": [
+              {
+                "name": "Krump",
+                "image": "krump",
+                "label": "Krump",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", and ",
+              {
+                "name": "\"John Smyth\"",
+                "image": "john-smyth",
+                "label": "\"John Smyth\"",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:51.369Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:53.506Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Krump",
+            "image": "krump",
+            "label": "Krump",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Shadow Self",
+                "image": "shadow-self",
+                "label": "Shadow Self",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:53.759Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:55.553Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Tunk",
+            "image": "tunk",
+            "label": "Tunk",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Shadow Self",
+                "image": "shadow-self",
+                "label": "Shadow Self",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:55.812Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:31:57.287Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "\"John Smyth\"",
+        "image": "john-smyth",
+        "label": "\"John Smyth\"",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "\"John Smyth\"",
+            "image": "john-smyth",
+            "label": "\"John Smyth\"",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Halacor",
+                "image": "halacor",
+                "label": "Halacor",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:31:57.556Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:06.457Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Follow the Leader",
+        "image": "follow-the-leader",
+        "label": "Follow the Leader",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:06.458Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Follow the Leader",
+        "image": "follow-the-leader",
+        "label": "Follow the Leader",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "allow each friendly creature to fight until the end of the turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:06.710Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:09.189Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "\"John Smyth\"",
+        "image": "john-smyth",
+        "label": "\"John Smyth\"",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "\"John Smyth\"",
+            "image": "john-smyth",
+            "label": "\"John Smyth\"",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Halacor",
+                "image": "halacor",
+                "label": "Halacor",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:09.444Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:10.448Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:10.448Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:10.449Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:10.450Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:10.452Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:10.452Z",
+    "message": [
+      "Jaho: 5 amber stronglink: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:10.452Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:10.452Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:10.453Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      5,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:10.454Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:10.713Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:30.247Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:30.248Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:30.511Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:34.204Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Seeker Needle",
+        "image": "seeker-needle",
+        "label": "Seeker Needle",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal damage to ",
+          {
+            "message": [
+              {
+                "name": "Krump",
+                "image": "krump",
+                "label": "Krump",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:34.462Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:36.548Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Finishing Blow",
+        "image": "finishing-blow",
+        "label": "Finishing Blow",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:36.863Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:37.456Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Finishing Blow",
+        "image": "finishing-blow",
+        "label": "Finishing Blow",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy ",
+          {
+            "message": [
+              {
+                "name": "Krump",
+                "image": "krump",
+                "label": "Krump",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:37.706Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:40.264Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Noddy the Thief",
+        "image": "noddy-the-thief",
+        "label": "Noddy the Thief",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:40.550Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:43.654Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:43.654Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:43.656Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:43.656Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:43.656Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:43.658Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:43.658Z",
+    "message": [
+      "Jaho: 7 amber stronglink: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:43.658Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:43.659Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:43.659Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:43.660Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:43.933Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:46.741Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:46.742Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:46.991Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:48.278Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:48.445Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:50.893Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Screechbomb",
+        "image": "screechbomb",
+        "label": "Screechbomb",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "sacrifice ",
+          {
+            "name": "Screechbomb",
+            "image": "screechbomb",
+            "label": "Screechbomb",
+            "type": "artifact",
+            "argType": "card"
+          },
+          " and make ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          },
+          " lost 2 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:51.140Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:51.591Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:51.591Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:51.593Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:51.593Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:51.594Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:51.594Z",
+    "message": [
+      "Jaho: 5 amber stronglink: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:51.594Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:51.595Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:51.595Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      5,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:32:51.595Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:32:51.764Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:33:18.605Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:33:18.606Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:33:18.948Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:33:21.588Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Tendrils of Pain",
+        "image": "tendrils-of-pain",
+        "label": "Tendrils of Pain",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:33:21.589Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tendrils of Pain",
+        "image": "tendrils-of-pain",
+        "label": "Tendrils of Pain",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal ",
+          1,
+          " damage to all creatures"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:33:21.862Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:33:31.422Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Tentacus",
+        "image": "tentacus",
+        "label": "Tentacus",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:33:31.676Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:33:34.558Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pit Demon",
+        "image": "pit-demon",
+        "label": "Pit Demon",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:33:34.820Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:33:37.971Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Guardian Demon",
+        "image": "guardian-demon",
+        "label": "Guardian Demon",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:33:38.248Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:33:45.834Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Guardian Demon",
+        "image": "guardian-demon",
+        "label": "Guardian Demon",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "heal ",
+          {
+            "message": [
+              {
+                "name": "Noddy the Thief",
+                "image": "noddy-the-thief",
+                "label": "Noddy the Thief",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " for up to 2 damage"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:33:46.086Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:33:48.189Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " heals ",
+      {
+        "name": "Noddy the Thief",
+        "image": "noddy-the-thief",
+        "label": "Noddy the Thief",
+        "type": "creature",
+        "argType": "card"
+      },
+      " for ",
+      "1",
+      " damage using ",
+      {
+        "name": "Guardian Demon",
+        "image": "guardian-demon",
+        "label": "Guardian Demon",
+        "type": "creature",
+        "argType": "card"
+      },
+      "'s ability"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:33:48.449Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:33:49.066Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Guardian Demon",
+        "image": "guardian-demon",
+        "label": "Guardian Demon",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to deal ",
+      1,
+      " damage to ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:33:49.357Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:33:52.287Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Shaffles",
+        "image": "shaffles",
+        "label": "Shaffles",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:33:52.637Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:04.414Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:04.414Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:04.416Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:04.416Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      5,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:04.416Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:04.419Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:04.419Z",
+    "message": [
+      "Jaho: 6 amber stronglink: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:04.419Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:04.420Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Shaffles",
+        "image": "shaffles",
+        "label": "Shaffles",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "message": [
+              {
+                "name": "stronglink",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          },
+          " lose 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:04.421Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:04.422Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:04.422Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:06.512Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:08.212Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:08.213Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:08.381Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:10.222Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:10.313Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:14.418Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Krump",
+            "image": "krump",
+            "label": "Krump",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Shaffles",
+                "image": "shaffles",
+                "label": "Shaffles",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:14.422Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "message": [
+              {
+                "name": "Jaho",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          },
+          " lose 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:14.747Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:17.508Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:17.508Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:17.510Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:17.510Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:17.511Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:17.511Z",
+    "message": [
+      "Jaho: 5 amber stronglink: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:17.511Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:17.512Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:17.513Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      5,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:17.513Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:17.771Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:55.219Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "untamed",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:55.220Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:55.514Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:57.624Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Lifeweb",
+        "image": "lifeweb",
+        "label": "Lifeweb",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:34:57.956Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:34:59.885Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ritual of Balance",
+        "image": "ritual-of-balance",
+        "label": "Ritual of Balance",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:00.211Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:02.753Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Niffle Ape",
+        "image": "niffle-ape",
+        "label": "Niffle Ape",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:03.007Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:06.643Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Witch of the Wilds",
+        "image": "witch-of-the-wilds",
+        "label": "Witch of the Wilds",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:06.900Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:13.747Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Vigor",
+        "image": "vigor",
+        "label": "Vigor",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:14.050Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:15.293Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Vigor",
+        "image": "vigor",
+        "label": "Vigor",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "heal ",
+          {
+            "message": [
+              {
+                "name": "Fuzzy Gruen",
+                "image": "fuzzy-gruen",
+                "label": "Fuzzy Gruen",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " for up to 3 damage"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:15.544Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:18.666Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " heals ",
+      {
+        "name": "Fuzzy Gruen",
+        "image": "fuzzy-gruen",
+        "label": "Fuzzy Gruen",
+        "type": "creature",
+        "argType": "card"
+      },
+      " for ",
+      "1",
+      " damage using ",
+      {
+        "name": "Vigor",
+        "image": "vigor",
+        "label": "Vigor",
+        "type": "action",
+        "argType": "card"
+      },
+      "'s ability"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:18.962Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:47.993Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Fuzzy Gruen",
+        "image": "fuzzy-gruen",
+        "label": "Fuzzy Gruen",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Fuzzy Gruen",
+            "image": "fuzzy-gruen",
+            "label": "Fuzzy Gruen",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Krump",
+                "image": "krump",
+                "label": "Krump",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:47.998Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "message": [
+              {
+                "name": "Jaho",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          },
+          " lose 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:48.260Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:57.273Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:57.273Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:57.275Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:57.275Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      5,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:57.275Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:57.278Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:57.278Z",
+    "message": [
+      "Jaho: 6 amber stronglink: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:57.278Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:57.279Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:57.279Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:35:57.280Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:35:57.703Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:01.242Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:01.244Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:01.535Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:04.220Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dodger",
+        "image": "dodger",
+        "label": "Dodger",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:04.391Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:10.785Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pawn Sacrifice",
+        "image": "pawn-sacrifice",
+        "label": "Pawn Sacrifice",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:11.069Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:11.797Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pawn Sacrifice",
+        "image": "pawn-sacrifice",
+        "label": "Pawn Sacrifice",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "sacrifice ",
+          {
+            "message": [
+              {
+                "name": "Krump",
+                "image": "krump",
+                "label": "Krump",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:12.056Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:20.380Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pawn Sacrifice",
+        "image": "pawn-sacrifice",
+        "label": "Pawn Sacrifice",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:20.655Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:21.198Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pawn Sacrifice",
+        "image": "pawn-sacrifice",
+        "label": "Pawn Sacrifice",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "sacrifice ",
+          {
+            "message": [
+              {
+                "name": "Krump",
+                "image": "krump",
+                "label": "Krump",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:21.459Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:28.447Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Lights Out",
+        "image": "lights-out",
+        "label": "Lights Out",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:28.636Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:30.845Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Lights Out",
+        "image": "lights-out",
+        "label": "Lights Out",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "return ",
+          {
+            "message": [
+              {
+                "name": "Witch of the Wilds",
+                "image": "witch-of-the-wilds",
+                "label": "Witch of the Wilds",
+                "type": "creature",
+                "argType": "card"
+              },
+              " and ",
+              {
+                "name": "Pit Demon",
+                "image": "pit-demon",
+                "label": "Pit Demon",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " to their hand"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:31.212Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:32.237Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Safe Place",
+        "image": "safe-place",
+        "label": "Safe Place",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "place 1 amber on ",
+          {
+            "message": [
+              {
+                "name": "Safe Place",
+                "image": "safe-place",
+                "label": "Safe Place",
+                "type": "artifact",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:32.411Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:33.139Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:33.139Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:33.141Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:33.141Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:33.144Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:33.144Z",
+    "message": [
+      "Jaho: 6 amber stronglink: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:33.144Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:33.146Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:33.146Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:36:33.147Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:36:33.328Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:21.776Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:21.778Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:22.620Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:24.275Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pit Demon",
+        "image": "pit-demon",
+        "label": "Pit Demon",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:24.526Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:27.121Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pit Demon",
+        "image": "pit-demon",
+        "label": "Pit Demon",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:27.387Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:36.513Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Drumble",
+        "image": "drumble",
+        "label": "Drumble",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:36.690Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:39.953Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Guardian Demon",
+        "image": "guardian-demon",
+        "label": "Guardian Demon",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Guardian Demon",
+                "image": "guardian-demon",
+                "label": "Guardian Demon",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:40.366Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:44.088Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:44.088Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:44.090Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:44.091Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:44.092Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:44.092Z",
+    "message": [
+      "Jaho: 1 amber stronglink: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:44.092Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:44.093Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:44.093Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:44.093Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:44.446Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:52.485Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "mars",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:52.486Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:52.845Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:53.779Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:54.040Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:54.582Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "heal ",
+          {
+            "message": [
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " fully"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:54.878Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:56.212Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Chuff Ape",
+        "image": "chuff-ape",
+        "label": "Chuff Ape",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:56.472Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:56.943Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Chuff Ape",
+        "image": "chuff-ape",
+        "label": "Chuff Ape",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "stun ",
+          {
+            "message": [
+              {
+                "name": "Chuff Ape",
+                "image": "chuff-ape",
+                "label": "Chuff Ape",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:56.945Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "heal ",
+          {
+            "message": [
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " fully"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:56.946Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "heal ",
+          {
+            "message": [
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " fully"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:57.192Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:37:58.572Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Psychic Network",
+        "image": "psychic-network",
+        "label": "Psychic Network",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:58.574Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Psychic Network",
+        "image": "psychic-network",
+        "label": "Psychic Network",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "Jaho",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:37:58.834Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:01.610Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:01.955Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:02.432Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:02.432Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:02.434Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:02.434Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:02.436Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:02.436Z",
+    "message": [
+      "Jaho: 0 amber stronglink: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:02.437Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:02.438Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:02.438Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:02.438Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:02.631Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:20.746Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:20.747Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:21.095Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:23.199Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Drumble",
+        "image": "drumble",
+        "label": "Drumble",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Drumble",
+                "image": "drumble",
+                "label": "Drumble",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:23.562Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:25.910Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pit Demon",
+        "image": "pit-demon",
+        "label": "Pit Demon",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "stronglink",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:26.260Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:28.026Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pit Demon",
+        "image": "pit-demon",
+        "label": "Pit Demon",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "stronglink",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:28.295Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:30.513Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Guardian Demon",
+        "image": "guardian-demon",
+        "label": "Guardian Demon",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Guardian Demon",
+                "image": "guardian-demon",
+                "label": "Guardian Demon",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:30.959Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:32.956Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "name": "Key Hammer",
+        "image": "key-hammer",
+        "label": "Key Hammer",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:33.411Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:38.453Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:38.454Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:38.461Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:38.461Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:38.463Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:38.463Z",
+    "message": [
+      "Jaho: 4 amber stronglink: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:38.463Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:38.464Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:38.465Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:38.466Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:38.821Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:44.043Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:44.045Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:44.387Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:45.846Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Bumpsy",
+        "image": "bumpsy",
+        "label": "Bumpsy",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:46.120Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:46.839Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Bumpsy",
+        "image": "bumpsy",
+        "label": "Bumpsy",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "message": [
+              {
+                "name": "Jaho",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          },
+          " lose 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:47.100Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:48.017Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Valdr",
+        "image": "valdr",
+        "label": "Valdr",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:48.268Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:50.559Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Follow the Leader",
+        "image": "follow-the-leader",
+        "label": "Follow the Leader",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:50.562Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Follow the Leader",
+        "image": "follow-the-leader",
+        "label": "Follow the Leader",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "allow each friendly creature to fight until the end of the turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:50.922Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:55.655Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:55.655Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:55.657Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:55.658Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:55.662Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:55.662Z",
+    "message": [
+      "Jaho: 3 amber stronglink: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:55.662Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:55.663Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:55.663Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:38:55.664Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:38:56.030Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:31.129Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "untamed",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:40:31.142Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:31.495Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:37.541Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ancient Bear",
+        "image": "ancient-bear",
+        "label": "Ancient Bear",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:40:37.828Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:41.826Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Witch of the Wilds",
+        "image": "witch-of-the-wilds",
+        "label": "Witch of the Wilds",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:40:42.147Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:48.325Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Regrowth",
+        "image": "regrowth",
+        "label": "Regrowth",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:40:48.685Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:50.653Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Regrowth",
+        "image": "regrowth",
+        "label": "Regrowth",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "return ",
+          {
+            "message": [
+              {
+                "name": "Fuzzy Gruen",
+                "image": "fuzzy-gruen",
+                "label": "Fuzzy Gruen",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " to their hand"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:40:51.042Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:53.111Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Fuzzy Gruen",
+        "image": "fuzzy-gruen",
+        "label": "Fuzzy Gruen",
+        "type": "creature",
+        "argType": "card"
+      },
+      ", gaining 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:40:53.373Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:54.074Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Fuzzy Gruen",
+        "image": "fuzzy-gruen",
+        "label": "Fuzzy Gruen",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          " gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:40:54.349Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:55.715Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:55.715Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:40:55.718Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:55.718Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:40:55.718Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:55.720Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:55.720Z",
+    "message": [
+      "Jaho: 6 amber stronglink: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:40:55.720Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:55.721Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:55.722Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:40:55.722Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:40:56.087Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:27.565Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:41:27.567Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:27.915Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:29.726Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Loot the Bodies",
+        "image": "loot-the-bodies",
+        "label": "Loot the Bodies",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:41:29.727Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Loot the Bodies",
+        "image": "loot-the-bodies",
+        "label": "Loot the Bodies",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber each time an enemy creature is destroyed for the remainder of the turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:41:30.082Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:34.156Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Valdr",
+        "image": "valdr",
+        "label": "Valdr",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Valdr",
+            "image": "valdr",
+            "label": "Valdr",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Witch of the Wilds",
+                "image": "witch-of-the-wilds",
+                "label": "Witch of the Wilds",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:41:34.169Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " gains 1 amber due to ",
+      {
+        "name": "Loot the Bodies",
+        "image": "loot-the-bodies",
+        "label": "Loot the Bodies",
+        "type": "action",
+        "argType": "card"
+      },
+      "'s effect"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:41:34.546Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:40.953Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Bumpsy",
+        "image": "bumpsy",
+        "label": "Bumpsy",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Bumpsy",
+            "image": "bumpsy",
+            "label": "Bumpsy",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Guardian Demon",
+                "image": "guardian-demon",
+                "label": "Guardian Demon",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:41:40.956Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " gains 1 amber due to ",
+      {
+        "name": "Loot the Bodies",
+        "image": "loot-the-bodies",
+        "label": "Loot the Bodies",
+        "type": "action",
+        "argType": "card"
+      },
+      "'s effect"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:41:41.346Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:42.776Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:42.777Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:41:42.780Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:42.781Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:41:42.781Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:42.785Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:42.785Z",
+    "message": [
+      "Jaho: 6 amber stronglink: 5 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:41:42.785Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:42.786Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:42.787Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:41:42.788Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:41:43.152Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:15.043Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:15.044Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:15.421Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:19.213Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Drumble",
+        "image": "drumble",
+        "label": "Drumble",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Drumble",
+                "image": "drumble",
+                "label": "Drumble",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:19.565Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:21.167Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pit Demon",
+        "image": "pit-demon",
+        "label": "Pit Demon",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "stronglink",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:21.507Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:24.059Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pit Demon",
+        "image": "pit-demon",
+        "label": "Pit Demon",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "stronglink",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:24.433Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:29.026Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:29.026Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:29.028Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:29.029Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:29.029Z",
+    "message": [
+      "Jaho: 3 amber stronglink: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:29.029Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 11"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:29.030Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:29.030Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:29.031Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:29.388Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:40.893Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:40.895Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:41.273Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:42.603Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Relentless Whispers",
+        "image": "relentless-whispers",
+        "label": "Relentless Whispers",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:42.889Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:43.639Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Relentless Whispers",
+        "image": "relentless-whispers",
+        "label": "Relentless Whispers",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 2 damage to ",
+          {
+            "message": [
+              {
+                "name": "Drumble",
+                "image": "drumble",
+                "label": "Drumble",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:43.948Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:46.755Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Macis Asp",
+        "image": "macis-asp",
+        "label": "Macis Asp",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:46.946Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:48.533Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Noddy the Thief",
+        "image": "noddy-the-thief",
+        "label": "Noddy the Thief",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:48.715Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:50.604Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Safe Place",
+        "image": "safe-place",
+        "label": "Safe Place",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "place 1 amber on ",
+          {
+            "message": [
+              {
+                "name": "Safe Place",
+                "image": "safe-place",
+                "label": "Safe Place",
+                "type": "artifact",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:50.876Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:53.977Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dodger",
+        "image": "dodger",
+        "label": "Dodger",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Dodger",
+            "image": "dodger",
+            "label": "Dodger",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Ancient Bear",
+                "image": "ancient-bear",
+                "label": "Ancient Bear",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:53.982Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dodger",
+        "image": "dodger",
+        "label": "Dodger",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "Jaho",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:54.195Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:56.039Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:56.040Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:56.043Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:56.043Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:56.051Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:56.055Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 11"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:56.055Z",
+    "message": [
+      "Jaho: 1 amber stronglink: 5 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:56.055Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 11"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:56.056Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:56.056Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-02T21:42:56.057Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:42:56.424Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:43:36.177Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:43:36.180Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:43:36.539Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:43:57.151Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pawn Sacrifice",
+        "image": "pawn-sacrifice",
+        "label": "Pawn Sacrifice",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:43:57.623Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:43:58.487Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pawn Sacrifice",
+        "image": "pawn-sacrifice",
+        "label": "Pawn Sacrifice",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "sacrifice ",
+          {
+            "message": [
+              {
+                "name": "Fuzzy Gruen",
+                "image": "fuzzy-gruen",
+                "label": "Fuzzy Gruen",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:43:58.761Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:08.367Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Seeker Needle",
+        "image": "seeker-needle",
+        "label": "Seeker Needle",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal damage to ",
+          {
+            "message": [
+              {
+                "name": "Macis Asp",
+                "image": "macis-asp",
+                "label": "Macis Asp",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:10.879Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:13.388Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ghostly Hand",
+        "image": "ghostly-hand",
+        "label": "Ghostly Hand",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:13.627Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:17.971Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mooncurser",
+        "image": "mooncurser",
+        "label": "Mooncurser",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:18.405Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:23.880Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Treasure Map",
+        "image": "treasure-map",
+        "label": "Treasure Map",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:23.882Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Treasure Map",
+        "image": "treasure-map",
+        "label": "Treasure Map",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make themselves unable to play any more cards this turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:24.249Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:31.469Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "name": "Key of Darkness",
+        "image": "key-of-darkness",
+        "label": "Key of Darkness",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:32.030Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:40.635Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:40.636Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:40.639Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:40.639Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      5,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:40.639Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:40.651Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 11"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:40.651Z",
+    "message": [
+      "Jaho: 6 amber stronglink: 5 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:40.651Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 12"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:40.653Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:40.653Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:41.022Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:45.612Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:45.977Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:48.401Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "mars",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:48.402Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:48.783Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:51.261Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Biomatrix Backup",
+        "image": "biomatrix-backup",
+        "label": "Biomatrix Backup",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ", gaining 1 amber",
+      " attaching it to ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:51.650Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:52.599Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:52.827Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:54.016Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:54.299Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:56.073Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " exhausts ",
+      {
+        "name": "Chuff Ape",
+        "image": "chuff-ape",
+        "label": "Chuff Ape",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to remove its stun"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:56.345Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:57.987Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "\"John Smyth\"",
+        "image": "john-smyth",
+        "label": "\"John Smyth\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:58.362Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:44:58.508Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "heal ",
+          {
+            "message": [
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " fully"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:58.517Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "heal ",
+          {
+            "message": [
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " fully"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:44:58.739Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:45:00.329Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ulyq Megamouth",
+        "image": "ulyq-megamouth",
+        "label": "Ulyq Megamouth",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:00.524Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:45:00.924Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "heal ",
+          {
+            "message": [
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " fully"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:00.926Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "heal ",
+          {
+            "message": [
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " fully"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:01.117Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:45:02.980Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Phosphorus Stars",
+        "image": "phosphorus-stars",
+        "label": "Phosphorus Stars",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:02.982Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Phosphorus Stars",
+        "image": "phosphorus-stars",
+        "label": "Phosphorus Stars",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "stun each non-Mars creature and gain 2 chains"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:03.360Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:45:04.761Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:45:04.761Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:04.764Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:45:04.764Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:04.764Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      1
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:04.765Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:04.766Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:04.781Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 12"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:45:04.781Z",
+    "message": [
+      "Jaho: 6 amber stronglink: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:04.781Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 12"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:45:04.782Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:45:04.783Z",
+    "message": [
+      {
+        "name": "Jaho",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-02T21:45:04.783Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Jaho",
+            "argType": "nonAvatarPlayer"
+          },
+          " has won the game"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-02T21:45:05.159Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "Jaho": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 3
+      },
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  }
+]

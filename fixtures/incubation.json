@@ -1,0 +1,4518 @@
+[
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/98566c9c-6d69-4dba-be78-cc07e22fcbf1",
+        "label": "Mr. Hotgrieve Oubliette"
+      }
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/d4c92c1f-a839-4b4e-9c32-76e8b754d56f",
+        "label": "V. V. Zero, Vagabondo della Selva"
+      }
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Deipno Spymaster",
+        "image": "deipno-spymaster",
+        "label": "Deipno Spymaster",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 0 amber Vracass: 0 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "discard a card at random"
+        ]
+      }
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "message": [
+          {
+            "name": "Yxilx Dominator",
+            "image": "yxilx-dominator",
+            "label": "Yxilx Dominator",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      },
+      " at random"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 0 amber Vracass: 1 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "mars",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Battle Fleet",
+        "image": "battle-fleet",
+        "label": "Battle Fleet",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Battle Fleet",
+        "image": "battle-fleet",
+        "label": "Battle Fleet",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reveal ",
+          {
+            "message": [
+              {
+                "name": "Mindwarper",
+                "image": "mindwarper",
+                "label": "Mindwarper",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Vezyma Thinkdrone",
+                "image": "vezyma-thinkdrone",
+                "label": "Vezyma Thinkdrone",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", and ",
+              {
+                "name": "Orbital Bombardment",
+                "image": "orbital-bombardment",
+                "label": "Orbital Bombardment",
+                "type": "action",
+                "argType": "card"
+              }
+            ]
+          },
+          " from their hand, and draw ",
+          3,
+          " cards"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "name": "Orbital Bombardment",
+        "image": "orbital-bombardment",
+        "label": "Orbital Bombardment",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Vezyma Thinkdrone",
+        "image": "vezyma-thinkdrone",
+        "label": "Vezyma Thinkdrone",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mindwarper",
+        "image": "mindwarper",
+        "label": "Mindwarper",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 1 amber Vracass: 1 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Hand of Dis",
+        "image": "hand-of-dis",
+        "label": "Hand of Dis",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Hand of Dis",
+        "image": "hand-of-dis",
+        "label": "Hand of Dis",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy ",
+          {
+            "message": [
+              {
+                "name": "Vezyma Thinkdrone",
+                "image": "vezyma-thinkdrone",
+                "label": "Vezyma Thinkdrone",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "discard a card at random"
+        ]
+      }
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "message": [
+          {
+            "name": "Key Hammer",
+            "image": "key-hammer",
+            "label": "Key Hammer",
+            "type": "action",
+            "argType": "card"
+          }
+        ]
+      },
+      " at random"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 1 amber Vracass: 2 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Routine Job",
+        "image": "routine-job",
+        "label": "Routine Job",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Routine Job",
+        "image": "routine-job",
+        "label": "Routine Job",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "Vracass",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ghostly Hand",
+        "image": "ghostly-hand",
+        "label": "Ghostly Hand",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 2 amber"
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ghostly Hand",
+        "image": "ghostly-hand",
+        "label": "Ghostly Hand",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "Vracass",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ghostly Hand",
+        "image": "ghostly-hand",
+        "label": "Ghostly Hand",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 2 amber"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Deipno Spymaster",
+        "image": "deipno-spymaster",
+        "label": "Deipno Spymaster",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Deipno Spymaster",
+                "image": "deipno-spymaster",
+                "label": "Deipno Spymaster",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 8 amber Vracass: 0 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Gongoozle",
+        "image": "gongoozle",
+        "label": "Gongoozle",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Gongoozle",
+        "image": "gongoozle",
+        "label": "Gongoozle",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 3 damage to ",
+          {
+            "message": [
+              {
+                "name": "Mindwarper",
+                "image": "mindwarper",
+                "label": "Mindwarper",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 0
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 8 amber Vracass: 1 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "mars",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Incubation Chamber",
+        "image": "incubation-chamber",
+        "label": "Incubation Chamber",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Soft Landing",
+        "image": "soft-landing",
+        "label": "Soft Landing",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soft Landing",
+        "image": "soft-landing",
+        "label": "Soft Landing",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make the next creature/artifact played this turn enter play ready"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Zyzzix the Many",
+        "image": "zyzzix-the-many",
+        "label": "Zyzzix the Many",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Zyzzix the Many",
+        "image": "zyzzix-the-many",
+        "label": "Zyzzix the Many",
+        "type": "creature",
+        "argType": "card"
+      },
+      " is readied due to ",
+      {
+        "name": "Soft Landing",
+        "image": "soft-landing",
+        "label": "Soft Landing",
+        "type": "action",
+        "argType": "card"
+      },
+      "'s effect"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Zyzzix the Many",
+        "image": "zyzzix-the-many",
+        "label": "Zyzzix the Many",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Zyzzix the Many",
+                "image": "zyzzix-the-many",
+                "label": "Zyzzix the Many",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Zyzzix the Many",
+        "image": "zyzzix-the-many",
+        "label": "Zyzzix the Many",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reveal ",
+          {
+            "message": [
+              {
+                "name": "The Terror",
+                "image": "the-terror",
+                "label": "The Terror",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Biomatrix Backup",
+        "image": "biomatrix-backup",
+        "label": "Biomatrix Backup",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ", gaining 1 amber",
+      " attaching it to ",
+      {
+        "name": "Zyzzix the Many",
+        "image": "zyzzix-the-many",
+        "label": "Zyzzix the Many",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      5,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 4 amber Vracass: 1 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Lights Out",
+        "image": "lights-out",
+        "label": "Lights Out",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Lights Out",
+        "image": "lights-out",
+        "label": "Lights Out",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "return ",
+          {
+            "message": [
+              {
+                "name": "Deipno Spymaster",
+                "image": "deipno-spymaster",
+                "label": "Deipno Spymaster",
+                "type": "creature",
+                "argType": "card"
+              },
+              " and ",
+              {
+                "name": "Zyzzix the Many",
+                "image": "zyzzix-the-many",
+                "label": "Zyzzix the Many",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " to their hand"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Bad Penny",
+        "image": "bad-penny",
+        "label": "Bad Penny",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 4 amber Vracass: 2 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Incubation Chamber",
+        "image": "incubation-chamber",
+        "label": "Incubation Chamber",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reveal ",
+          {
+            "name": "Zyzzix the Many",
+            "image": "zyzzix-the-many",
+            "label": "Zyzzix the Many",
+            "type": "creature",
+            "argType": "card"
+          },
+          " and archive it"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dominator Bauble",
+        "image": "dominator-bauble",
+        "label": "Dominator Bauble",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "force ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          },
+          " to choose ",
+          "dis",
+          " as their active house on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 5 amber Vracass: 2 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "discard a card at random"
+        ]
+      }
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "message": [
+          {
+            "name": "Customs Office",
+            "image": "customs-office",
+            "label": "Customs Office",
+            "type": "artifact",
+            "argType": "card"
+          }
+        ]
+      },
+      " at random"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Flame-Wreathed",
+        "image": "flame-wreathed",
+        "label": "Flame-Wreathed",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ", gaining 1 amber",
+      " attaching it to ",
+      {
+        "name": "Bad Penny",
+        "image": "bad-penny",
+        "label": "Bad Penny",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 5 amber Vracass: 4 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      5,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pawn Sacrifice",
+        "image": "pawn-sacrifice",
+        "label": "Pawn Sacrifice",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pawn Sacrifice",
+        "image": "pawn-sacrifice",
+        "label": "Pawn Sacrifice",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "sacrifice ",
+          {
+            "message": [
+              {
+                "name": "Dust Imp",
+                "image": "dust-imp",
+                "label": "Dust Imp",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 2 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Bad Penny",
+        "image": "bad-penny",
+        "label": "Bad Penny",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "return ",
+          {
+            "message": [
+              {
+                "name": "Bad Penny",
+                "image": "bad-penny",
+                "label": "Bad Penny",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " to their hand"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Deipno Spymaster",
+        "image": "deipno-spymaster",
+        "label": "Deipno Spymaster",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Relentless Whispers",
+        "image": "relentless-whispers",
+        "label": "Relentless Whispers",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 9,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Relentless Whispers",
+        "image": "relentless-whispers",
+        "label": "Relentless Whispers",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 2 damage to ",
+          {
+            "message": [
+              {
+                "name": "Deipno Spymaster",
+                "image": "deipno-spymaster",
+                "label": "Deipno Spymaster",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pawn Sacrifice",
+        "image": "pawn-sacrifice",
+        "label": "Pawn Sacrifice",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      5,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 11 amber Vracass: 3 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "mars",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Battle Fleet",
+        "image": "battle-fleet",
+        "label": "Battle Fleet",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Battle Fleet",
+        "image": "battle-fleet",
+        "label": "Battle Fleet",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reveal ",
+          {
+            "message": [
+              {
+                "name": "Soft Landing",
+                "image": "soft-landing",
+                "label": "Soft Landing",
+                "type": "action",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Tunk",
+                "image": "tunk",
+                "label": "Tunk",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", and ",
+              {
+                "name": "Uxlyx the Zookeeper",
+                "image": "uxlyx-the-zookeeper",
+                "label": "Uxlyx the Zookeeper",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " from their hand, and draw ",
+          3,
+          " cards"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Soft Landing",
+        "image": "soft-landing",
+        "label": "Soft Landing",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Soft Landing",
+        "image": "soft-landing",
+        "label": "Soft Landing",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make the next creature/artifact played this turn enter play ready"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Blypyp",
+        "image": "blypyp",
+        "label": "Blypyp",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "Blypyp",
+        "image": "blypyp",
+        "label": "Blypyp",
+        "type": "creature",
+        "argType": "card"
+      },
+      " is readied due to ",
+      {
+        "name": "Soft Landing",
+        "image": "soft-landing",
+        "label": "Soft Landing",
+        "type": "action",
+        "argType": "card"
+      },
+      "'s effect"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Blypyp",
+        "image": "blypyp",
+        "label": "Blypyp",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Blypyp",
+                "image": "blypyp",
+                "label": "Blypyp",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Blypyp",
+        "image": "blypyp",
+        "label": "Blypyp",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make the next Mars creature played this turn enter play ready"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Uxlyx the Zookeeper",
+        "image": "uxlyx-the-zookeeper",
+        "label": "Uxlyx the Zookeeper",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Uxlyx the Zookeeper",
+        "image": "uxlyx-the-zookeeper",
+        "label": "Uxlyx the Zookeeper",
+        "type": "creature",
+        "argType": "card"
+      },
+      " is readied due to ",
+      {
+        "name": "Blypyp",
+        "image": "blypyp",
+        "label": "Blypyp",
+        "type": "creature",
+        "argType": "card"
+      },
+      "'s effect"
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Uxlyx the Zookeeper",
+        "image": "uxlyx-the-zookeeper",
+        "label": "Uxlyx the Zookeeper",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Uxlyx the Zookeeper",
+                "image": "uxlyx-the-zookeeper",
+                "label": "Uxlyx the Zookeeper",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Tunk",
+        "image": "tunk",
+        "label": "Tunk",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Vracass": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "Vracass",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      "stronglink: 11 amber Vracass: 6 amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Vracass": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "Vracass",
+            "argType": "nonAvatarPlayer"
+          },
+          " concedes"
+        ]
+      }
+    }
+  },
+  {
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " has won the game"
+        ]
+      }
+    }
+  },
+  {
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Vracass": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  }
+]

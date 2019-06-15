@@ -1,0 +1,9079 @@
+[
+  {
+    "date": "2019-05-05T22:46:26.586Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:46:26.601Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:46:26.601Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/efe0df68-e73d-4cd8-a59f-43359c032b24",
+        "label": "Xin the Heroically Languid"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:46:26.601Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/70bbf0b6-3b41-497b-ada8-b085e236ff60",
+        "label": "The Dutifully Ponderous King of Icemire"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:46:27.506Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:46:27.735Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:46:32.033Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:46:53.520Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:46:53.755Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:05.691Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:05.691Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:47:05.691Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:05.967Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:09.647Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " is attempting to switch manual mode on"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:09.880Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:12.584Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " allows enabling manual mode"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:12.584Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " switches manual mode on"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:12.818Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:18.183Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          1,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:18.522Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:18.721Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          2,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:18.887Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 2,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:19.408Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          3,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:19.606Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:19.936Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          4,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:20.082Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:20.632Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          5,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:20.925Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:21.215Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          6,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:21.450Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:21.808Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          7,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:21.962Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:22.423Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          8,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:22.570Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:22.959Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          9,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:23.105Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 9,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:30.821Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " switches manual mode off"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:31.795Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 9,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:58.262Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:47:58.262Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:47:58.557Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 9,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:00.950Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:01.099Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 9,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:02.402Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:02.402Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:02.403Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:02.403Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:02.403Z",
+    "message": [
+      "stronglink: 0 amber Hamstercrack: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:02.403Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:02.403Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:02.403Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:02.404Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:02.641Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 9,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:18.970Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:18.971Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:19.210Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 0,
+        "chains": 9,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:21.393Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Hidden Stash",
+        "image": "hidden-stash",
+        "label": "Hidden Stash",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:21.652Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 9,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:23.322Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Hidden Stash",
+        "image": "hidden-stash",
+        "label": "Hidden Stash",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:23.738Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 9,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:25.360Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dodger",
+        "image": "dodger",
+        "label": "Dodger",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:25.559Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 9,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:26.456Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:26.456Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:26.457Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:26.457Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      4
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:26.457Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      8
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:26.458Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:26.458Z",
+    "message": [
+      "stronglink: 0 amber Hamstercrack: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:26.458Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:26.459Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:26.459Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:26.459Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:26.703Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:32.238Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:32.238Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:32.478Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:36.682Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Skippy Timehog",
+        "image": "skippy-timehog",
+        "label": "Skippy Timehog",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:36.918Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:37.593Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Skippy Timehog",
+        "image": "skippy-timehog",
+        "label": "Skippy Timehog",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "stop ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " from using any cards next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:37.834Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:43.422Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:43.715Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:44.399Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Labwork",
+        "image": "labwork",
+        "label": "Labwork",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:44.651Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:47.143Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:47.390Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:49.348Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:49.603Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:51.037Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:51.037Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:51.038Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:51.039Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:51.041Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:51.041Z",
+    "message": [
+      "stronglink: 2 amber Hamstercrack: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:51.041Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:51.042Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:51.042Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:51.042Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:51.288Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:48:59.697Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:48:59.938Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:01.826Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:02.101Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:03.304Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Protectrix",
+        "image": "protectrix",
+        "label": "Protectrix",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:03.633Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:08.762Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Protectrix",
+        "image": "protectrix",
+        "label": "Protectrix",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:09.004Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 8,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:13.963Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:13.964Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:13.965Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:13.965Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      4
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:13.965Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      7
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:13.967Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:13.967Z",
+    "message": [
+      "stronglink: 2 amber Hamstercrack: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:13.967Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:13.968Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:13.968Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:13.968Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:14.289Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:19.947Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:20.188Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:21.501Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:21.741Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:24.608Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Rocket Boots",
+        "image": "rocket-boots",
+        "label": "Rocket Boots",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ",",
+      " attaching it to ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:24.768Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:27.207Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:27.456Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:31.109Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:31.115Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "ready ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:31.363Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:33.559Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:33.835Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:35.248Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:35.497Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:36.935Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Foggify",
+        "image": "foggify",
+        "label": "Foggify",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:36.936Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Foggify",
+        "image": "foggify",
+        "label": "Foggify",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "stop ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " from fighting next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:37.178Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:38.703Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Skippy Timehog",
+        "image": "skippy-timehog",
+        "label": "Skippy Timehog",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Skippy Timehog",
+                "image": "skippy-timehog",
+                "label": "Skippy Timehog",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:38.952Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:39.681Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:39.681Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:39.683Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:39.683Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:39.683Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:39.684Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:39.684Z",
+    "message": [
+      "stronglink: 6 amber Hamstercrack: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:39.684Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:39.685Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:39.685Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:49:39.686Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:49:39.936Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:05.754Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:50:06.102Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:09.786Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:10.033Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:12.019Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Dodger",
+        "image": "dodger",
+        "label": "Dodger",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Dodger",
+                "image": "dodger",
+                "label": "Dodger",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:50:12.262Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 2,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:24.339Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Booby Trap",
+        "image": "booby-trap",
+        "label": "Booby Trap",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:50:24.583Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:29.208Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Booby Trap",
+        "image": "booby-trap",
+        "label": "Booby Trap",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 4 damage to ",
+          {
+            "message": [
+              {
+                "name": "Dodger",
+                "image": "dodger",
+                "label": "Dodger",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " and 2 to their neighbors"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:50:29.467Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:31.907Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Finishing Blow",
+        "image": "finishing-blow",
+        "label": "Finishing Blow",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:50:32.149Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:36.082Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Finishing Blow",
+        "image": "finishing-blow",
+        "label": "Finishing Blow",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy ",
+          {
+            "message": [
+              {
+                "name": "Protectrix",
+                "image": "protectrix",
+                "label": "Protectrix",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:50:36.328Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 5,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:45.222Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 5,
+        "chains": 7,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:54.764Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:54.764Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:50:54.765Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:54.766Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      4
+    ]
+  },
+  {
+    "date": "2019-05-05T22:50:54.766Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-05T22:50:54.767Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:54.767Z",
+    "message": [
+      "stronglink: 5 amber Hamstercrack: 5 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:50:54.767Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:54.767Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:54.768Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      5,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:50:54.768Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:50:55.018Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 5,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:51:20.896Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:51:21.143Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 5,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:51:22.212Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " moves all the cards in their archives to their hand"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:51:22.215Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:51:22.464Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 5,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:51:26.602Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Shooler",
+        "image": "shooler",
+        "label": "Shooler",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:51:26.849Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 5,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:51:27.660Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Shooler",
+        "image": "shooler",
+        "label": "Shooler",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "Hamstercrack",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:51:27.911Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:51:30.224Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:51:30.470Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:51:31.013Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "capture 3 amber from ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          ", placing it on ",
+          {
+            "message": [
+              {
+                "name": "Charette",
+                "image": "charette",
+                "label": "Charette",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:51:31.267Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:51:34.983Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Tendrils of Pain",
+        "image": "tendrils-of-pain",
+        "label": "Tendrils of Pain",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:51:34.984Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tendrils of Pain",
+        "image": "tendrils-of-pain",
+        "label": "Tendrils of Pain",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal ",
+          1,
+          " damage to all creatures"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:51:35.236Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 1,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:51:43.545Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "A Fair Game",
+        "image": "a-fair-game",
+        "label": "A Fair Game",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:51:43.546Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "A Fair Game",
+        "image": "a-fair-game",
+        "label": "A Fair Game",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "discard the top card of ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          "'s deck:",
+          {
+            "name": "Stealer of Souls",
+            "image": "stealer-of-souls",
+            "label": "Stealer of Souls",
+            "type": "creature",
+            "argType": "card"
+          },
+          " and reveal their hand: ",
+          {
+            "message": [
+              {
+                "name": "Tentacus",
+                "image": "tentacus",
+                "label": "Tentacus",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Shooler",
+                "image": "shooler",
+                "label": "Shooler",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Cleansing Wave",
+                "image": "cleansing-wave",
+                "label": "Cleansing Wave",
+                "type": "action",
+                "argType": "card"
+              },
+              ", and ",
+              {
+                "name": "Dust Imp",
+                "image": "dust-imp",
+                "label": "Dust Imp",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          ", gaining ",
+          3,
+          " amber. Then ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " discards the top card of ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          "'s deck: ",
+          {
+            "name": "Shoulder Armor",
+            "image": "shoulder-armor",
+            "label": "Shoulder Armor",
+            "type": "upgrade",
+            "argType": "card"
+          },
+          " and reveals their hand:",
+          {
+            "message": [
+              {
+                "name": "Sequis",
+                "image": "sequis",
+                "label": "Sequis",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Glorious Few",
+                "image": "glorious-few",
+                "label": "Glorious Few",
+                "type": "action",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Numquid the Fair",
+                "image": "numquid-the-fair",
+                "label": "Numquid the Fair",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Control the Weak",
+                "image": "control-the-weak",
+                "label": "Control the Weak",
+                "type": "action",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Phase Shift",
+                "image": "phase-shift",
+                "label": "Phase Shift",
+                "type": "action",
+                "argType": "card"
+              },
+              ", and ",
+              {
+                "name": "Control the Weak",
+                "image": "control-the-weak",
+                "label": "Control the Weak",
+                "type": "action",
+                "argType": "card"
+              }
+            ]
+          },
+          ", gaining ",
+          3,
+          " amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:51:43.798Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:06.510Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:06.761Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:08.226Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "force ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " to choose ",
+          "shadows",
+          " as their active house on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:08.473Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:10.937Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:10.937Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:10.939Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:10.939Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:10.939Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:10.941Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:10.941Z",
+    "message": [
+      "stronglink: 11 amber Hamstercrack: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:10.941Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:10.942Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:10.942Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:10.942Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:11.193Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:14.045Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:14.312Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:16.029Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:16.276Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 0
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 6,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:18.092Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:18.092Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:18.093Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:18.093Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:18.093Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:18.094Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:18.094Z",
+    "message": [
+      "stronglink: 11 amber Hamstercrack: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:18.094Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:18.095Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:18.095Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:18.096Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:18.411Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:23.132Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:23.133Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:23.385Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:26.250Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:26.509Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:29.522Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:29.524Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "ready ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:29.792Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:32.031Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:32.286Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:34.768Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:35.029Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:36.948Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:36.948Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Phase Shift",
+        "image": "phase-shift",
+        "label": "Phase Shift",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "allow them to play one non-Logos card this turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:37.204Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:52:38.726Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:52:38.973Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:02.576Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "force ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " to choose ",
+          "shadows",
+          " as their active house on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:53:02.831Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:03.464Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:03.464Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:53:03.466Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:03.466Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-05T22:53:03.466Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:03.468Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:03.468Z",
+    "message": [
+      "stronglink: 8 amber Hamstercrack: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:53:03.468Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:03.469Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:03.469Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:53:03.469Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:03.727Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:18.107Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "shadows",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:53:18.419Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:19.988Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:20.242Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 1
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 5,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:23.597Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:23.598Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:53:23.599Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:23.599Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      4
+    ]
+  },
+  {
+    "date": "2019-05-05T22:53:23.599Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:23.600Z",
+    "message": [
+      "stronglink: 8 amber Hamstercrack: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:53:23.600Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:23.601Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:23.601Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:53:23.602Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:53:23.860Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:04.421Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:04.674Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:06.455Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:06.743Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:07.849Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:08.098Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:10.528Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:10.796Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:14.215Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:14.217Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "ready ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:14.481Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:16.389Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:16.655Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:17.392Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:17.656Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:20.226Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:20.226Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:20.228Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:20.228Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:20.229Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:20.229Z",
+    "message": [
+      "stronglink: 4 amber Hamstercrack: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:20.229Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:20.230Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:20.230Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:20.231Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:20.574Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:30.922Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:31.315Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:32.424Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " moves all the cards in their archives to their hand"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:32.425Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:32.814Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:34.610Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Hand of Dis",
+        "image": "hand-of-dis",
+        "label": "Hand of Dis",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:34.864Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:35.548Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Hand of Dis",
+        "image": "hand-of-dis",
+        "label": "Hand of Dis",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy ",
+          {
+            "message": [
+              {
+                "name": "Charette",
+                "image": "charette",
+                "label": "Charette",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:35.806Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 7,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:41.802Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:42.056Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 7,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:44.760Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Stealer of Souls",
+        "image": "stealer-of-souls",
+        "label": "Stealer of Souls",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:45.051Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 7,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:47.409Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Shooler",
+        "image": "shooler",
+        "label": "Shooler",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:47.801Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 7,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:48.356Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Shooler",
+        "image": "shooler",
+        "label": "Shooler",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "stronglink",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:48.637Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 8,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:50.072Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Tentacus",
+        "image": "tentacus",
+        "label": "Tentacus",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:50.377Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 8,
+        "chains": 4,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:53.427Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:53.427Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:53.430Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:53.430Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:53.431Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      3
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:53.431Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:53.433Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:53.433Z",
+    "message": [
+      "stronglink: 3 amber Hamstercrack: 8 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:53.433Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:53.435Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:53.435Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:54:53.435Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:54:53.787Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 8,
+        "chains": 3,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:55:34.620Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:55:34.963Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 8,
+        "chains": 3,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:55:36.848Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:55:37.184Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 8,
+        "chains": 3,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:55:43.936Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Quixo the \"Adventurer\"",
+            "image": "quixo-the-adventurer",
+            "label": "Quixo the \"Adventurer\"",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Protectrix",
+                "image": "protectrix",
+                "label": "Protectrix",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:55:43.939Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Quixo the \"Adventurer\"",
+        "image": "quixo-the-adventurer",
+        "label": "Quixo the \"Adventurer\"",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw 1 cards"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:55:44.211Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 8,
+        "chains": 3,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:55:47.525Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dr. Escotera",
+        "image": "dr-escotera",
+        "label": "Dr. Escotera",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:55:47.691Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 8,
+        "chains": 3,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:55:49.853Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:55:50.190Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 8,
+        "chains": 3,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:55:52.486Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:55:52.488Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "ready ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:55:52.753Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 8,
+        "chains": 3,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:55:54.332Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Ganymede Archivist",
+                "image": "ganymede-archivist",
+                "label": "Ganymede Archivist",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:55:54.665Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 8,
+        "chains": 3,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:55:55.760Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganymede Archivist",
+        "image": "ganymede-archivist",
+        "label": "Ganymede Archivist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "archive a card"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:55:56.131Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 8,
+        "chains": 3,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:06.201Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:06.201Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:06.204Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:06.205Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:06.214Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:06.214Z",
+    "message": [
+      "stronglink: 5 amber Hamstercrack: 8 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:06.214Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:06.215Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:06.215Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:06.215Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:06.561Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 2,
+        "chains": 3,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:37.765Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:37.766Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:38.188Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 2,
+        "chains": 3,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:41.528Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mighty Lance",
+        "image": "mighty-lance",
+        "label": "Mighty Lance",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:41.896Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 2,
+        "chains": 3,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:44.482Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Mighty Lance",
+        "image": "mighty-lance",
+        "label": "Mighty Lance",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 3 damage to ",
+          {
+            "name": "Ganymede Archivist",
+            "image": "ganymede-archivist",
+            "label": "Ganymede Archivist",
+            "type": "creature",
+            "argType": "card"
+          },
+          " and ",
+          {
+            "name": "Shooler",
+            "image": "shooler",
+            "label": "Shooler",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:44.847Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 2,
+        "chains": 3,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:48.618Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Protectrix",
+        "image": "protectrix",
+        "label": "Protectrix",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:49.044Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 2,
+        "chains": 3,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:52.394Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Cleansing Wave",
+        "image": "cleansing-wave",
+        "label": "Cleansing Wave",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:52.396Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Cleansing Wave",
+        "image": "cleansing-wave",
+        "label": "Cleansing Wave",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "heal 1 damage from all creatures"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:52.399Z",
+    "message": [
+      {
+        "name": "Cleansing Wave",
+        "image": "cleansing-wave",
+        "label": "Cleansing Wave",
+        "type": "action",
+        "argType": "card"
+      },
+      " heals ",
+      {
+        "message": [
+          {
+            "name": "Shooler",
+            "image": "shooler",
+            "label": "Shooler",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      },
+      ", gaining ",
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " ",
+      1,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:52.835Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 3,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:54.610Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:54.610Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:54.612Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:54.612Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:54.612Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      2
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:54.614Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:54.614Z",
+    "message": [
+      "stronglink: 5 amber Hamstercrack: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:54.614Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:54.614Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:54.614Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      5,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:56:54.615Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:56:54.965Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:15.356Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:15.703Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:17.087Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:17.430Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:18.674Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Sacrificial Altar",
+        "image": "sacrificial-altar",
+        "label": "Sacrificial Altar",
+        "type": "artifact",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:18.934Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:20.440Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Gabos Longarms",
+        "image": "gabos-longarms",
+        "label": "Gabos Longarms",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:20.696Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:25.625Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Shooler",
+        "image": "shooler",
+        "label": "Shooler",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Shooler",
+                "image": "shooler",
+                "label": "Shooler",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:25.967Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:29.034Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Fear",
+        "image": "fear",
+        "label": "Fear",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:29.389Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:29.980Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Fear",
+        "image": "fear",
+        "label": "Fear",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "return ",
+          {
+            "message": [
+              {
+                "name": "Dust Imp",
+                "image": "dust-imp",
+                "label": "Dust Imp",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          },
+          " to their hand"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:30.259Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:37.505Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "name": "Pandemonium",
+        "image": "pandemonium",
+        "label": "Pandemonium",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:37.855Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:39.396Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:39.396Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:39.398Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:39.399Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:39.399Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:39.409Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:39.409Z",
+    "message": [
+      "stronglink: 7 amber Hamstercrack: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:39.409Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:39.410Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:39.410Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:39.411Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:39.765Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:59.423Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:57:59.424Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:57:59.807Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:58:19.883Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Stealer of Souls",
+        "image": "stealer-of-souls",
+        "label": "Stealer of Souls",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Stealer of Souls",
+            "image": "stealer-of-souls",
+            "label": "Stealer of Souls",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Quixo the \"Adventurer\"",
+                "image": "quixo-the-adventurer",
+                "label": "Quixo the \"Adventurer\"",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:58:19.886Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Stealer of Souls",
+        "image": "stealer-of-souls",
+        "label": "Stealer of Souls",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "purge ",
+          {
+            "message": [
+              {
+                "name": "Quixo the \"Adventurer\"",
+                "image": "quixo-the-adventurer",
+                "label": "Quixo the \"Adventurer\"",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:58:20.293Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:58:35.147Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dominator Bauble",
+        "image": "dominator-bauble",
+        "label": "Dominator Bauble",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:58:35.546Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:58:45.091Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Dust Imp",
+        "image": "dust-imp",
+        "label": "Dust Imp",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:58:45.447Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:58:49.805Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:58:50.188Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:58:51.146Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Charette",
+        "image": "charette",
+        "label": "Charette",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "capture 3 amber from ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          ", placing it on ",
+          {
+            "message": [
+              {
+                "name": "Charette",
+                "image": "charette",
+                "label": "Charette",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:58:51.495Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:59:03.183Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Shooler",
+        "image": "shooler",
+        "label": "Shooler",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Shooler",
+            "image": "shooler",
+            "label": "Shooler",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Gabos Longarms",
+                "image": "gabos-longarms",
+                "label": "Gabos Longarms",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:59:03.576Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:59:44.562Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tentacus",
+        "image": "tentacus",
+        "label": "Tentacus",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Tentacus",
+            "image": "tentacus",
+            "label": "Tentacus",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Shooler",
+                "image": "shooler",
+                "label": "Shooler",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T22:59:44.915Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 2,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:59:49.656Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:59:49.657Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:59:49.658Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:59:49.658Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-05T22:59:49.659Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      1
+    ]
+  },
+  {
+    "date": "2019-05-05T22:59:49.660Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:59:49.660Z",
+    "message": [
+      "stronglink: 4 amber Hamstercrack: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:59:49.660Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:59:49.660Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:59:49.660Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T22:59:49.661Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:59:50.008Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:59:58.310Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:59:58.664Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T22:59:59.853Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " moves all the cards in their archives to their hand"
+    ]
+  },
+  {
+    "date": "2019-05-05T22:59:59.856Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:00.207Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:03.487Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Glorious Few",
+        "image": "glorious-few",
+        "label": "Glorious Few",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:03.488Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Glorious Few",
+        "image": "glorious-few",
+        "label": "Glorious Few",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 3 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:03.851Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:06.142Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Glorious Few",
+        "image": "glorious-few",
+        "label": "Glorious Few",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:06.144Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Glorious Few",
+        "image": "glorious-few",
+        "label": "Glorious Few",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 3 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:06.401Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:09.911Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Numquid the Fair",
+        "image": "numquid-the-fair",
+        "label": "Numquid the Fair",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:10.254Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:14.962Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Numquid the Fair",
+        "image": "numquid-the-fair",
+        "label": "Numquid the Fair",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy ",
+          {
+            "message": [
+              {
+                "name": "Stealer of Souls",
+                "image": "stealer-of-souls",
+                "label": "Stealer of Souls",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:15.313Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:15.784Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Numquid the Fair",
+        "image": "numquid-the-fair",
+        "label": "Numquid the Fair",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy ",
+          {
+            "message": [
+              {
+                "name": "Protectrix",
+                "image": "protectrix",
+                "label": "Protectrix",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:15.972Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:19.913Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Staunch Knight",
+        "image": "staunch-knight",
+        "label": "Staunch Knight",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:20.207Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:23.659Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Commander Remiel",
+        "image": "commander-remiel",
+        "label": "Commander Remiel",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:23.921Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:25.922Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Champion Anaphiel",
+        "image": "champion-anaphiel",
+        "label": "Champion Anaphiel",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:26.189Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:28.880Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Commander Remiel",
+        "image": "commander-remiel",
+        "label": "Commander Remiel",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:29.224Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:31.613Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Champion Anaphiel",
+        "image": "champion-anaphiel",
+        "label": "Champion Anaphiel",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:31.876Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:34.765Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Shield of Justice",
+        "image": "shield-of-justice",
+        "label": "Shield of Justice",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:34.768Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Shield of Justice",
+        "image": "shield-of-justice",
+        "label": "Shield of Justice",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "prevent their creatures from taking damage this turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:35.127Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:36.608Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Sequis",
+        "image": "sequis",
+        "label": "Sequis",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:36.952Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:38.577Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:38.577Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:38.580Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:38.581Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      4,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:38.581Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:38.584Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:38.584Z",
+    "message": [
+      "stronglink: 11 amber Hamstercrack: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:38.584Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:38.587Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:38.587Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:38.587Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:38.947Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:56.648Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:00:56.649Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:57.068Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:00:59.921Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Gatekeeper",
+        "image": "gatekeeper",
+        "label": "Gatekeeper",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:01:00.277Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:01:01.516Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Gatekeeper",
+        "image": "gatekeeper",
+        "label": "Gatekeeper",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "capture 6 amber from ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          ", placing it on ",
+          {
+            "message": [
+              {
+                "name": "Gatekeeper",
+                "image": "gatekeeper",
+                "label": "Gatekeeper",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:01:01.879Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:01:07.077Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:01:07.078Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:01:07.080Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:01:07.080Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-05T23:01:07.080Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      0
+    ]
+  },
+  {
+    "date": "2019-05-05T23:01:07.082Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:01:07.082Z",
+    "message": [
+      "stronglink: 5 amber Hamstercrack: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:01:07.082Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:01:07.083Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:01:07.083Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      5,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T23:01:07.084Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:01:07.518Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:01:57.474Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:01:57.476Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:01:57.841Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:00.556Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:00.558Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Mind Barb",
+        "image": "mind-barb",
+        "label": "Mind Barb",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "discard a card at random"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:00.558Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " discards ",
+      {
+        "message": [
+          {
+            "name": "Ghostly Hand",
+            "image": "ghostly-hand",
+            "label": "Ghostly Hand",
+            "type": "action",
+            "argType": "card"
+          }
+        ]
+      },
+      " at random"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:00.915Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:12.809Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Sacrificial Altar",
+        "image": "sacrificial-altar",
+        "label": "Sacrificial Altar",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "purge ",
+          {
+            "message": [
+              {
+                "name": "Numquid the Fair",
+                "image": "numquid-the-fair",
+                "label": "Numquid the Fair",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:13.098Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:19.067Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Sacrificial Altar",
+        "image": "sacrificial-altar",
+        "label": "Sacrificial Altar",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " from their discard pile due to ",
+      {
+        "name": "Sacrificial Altar",
+        "image": "sacrificial-altar",
+        "label": "Sacrificial Altar",
+        "type": "artifact",
+        "argType": "card"
+      },
+      "'s effect"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:19.069Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Shooler",
+        "image": "shooler",
+        "label": "Shooler",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:19.491Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:21.053Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Shooler",
+        "image": "shooler",
+        "label": "Shooler",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "steal 1 amber from ",
+          {
+            "message": [
+              {
+                "name": "Hamstercrack",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:21.408Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:22.619Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:22.886Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:23.586Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Control the Weak",
+        "image": "control-the-weak",
+        "label": "Control the Weak",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "force ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " to choose ",
+          "dis",
+          " as their active house on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:23.858Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:25.173Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:25.173Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:25.176Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:25.176Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:25.176Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:25.176Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:25.177Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:25.185Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:25.185Z",
+    "message": [
+      "stronglink: 8 amber Hamstercrack: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:25.185Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:25.187Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:25.187Z",
+    "message": [
+      {
+        "name": "Hamstercrack",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-05T23:02:25.187Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:25.565Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:46.946Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "Hamstercrack",
+            "argType": "nonAvatarPlayer"
+          },
+          " concedes"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:46.946Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " has won the game"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-05T23:02:47.300Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 2
+      },
+      "Hamstercrack": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  }
+]

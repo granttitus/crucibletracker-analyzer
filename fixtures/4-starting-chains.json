@@ -1,0 +1,8926 @@
+[
+  {
+    "date": "2019-05-03T19:27:00.200Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:00.210Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:00.211Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/c4a4db08-3173-433a-b6fc-0ae9216a8e54",
+        "label": "Kuerpuddle Valiance-Hawkins, Protector"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:00.211Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " is playing as the Archon: ",
+      {
+        "link": "https://www.keyforgegame.com/deck-details/56697008-c625-4242-a202-15f4f3602ff2",
+        "label": "Naomi G. l’Abominevole"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:00.408Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:00.444Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " has connected to the game server"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:02.021Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:15.057Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:16.866Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " is attempting to switch manual mode on"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:17.018Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:19.780Z",
+    "message": {
+      "alert": {
+        "type": "info",
+        "message": [
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          },
+          " allows enabling manual mode"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:19.780Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " switches manual mode on"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:20.019Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:21.678Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          1,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:21.919Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:22.013Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          2,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:22.077Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:22.603Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          3,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:22.753Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:23.253Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " sets ",
+          "chains",
+          " to ",
+          4,
+          " (",
+          "+1",
+          ")"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:23.403Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:24.865Z",
+    "message": {
+      "alert": {
+        "type": "danger",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " switches manual mode off"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:25.106Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:26.880Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:33.683Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:40.838Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:40.842Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:40.842Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:40.842Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:41.087Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:44.779Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:44.780Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:45.040Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:46.766Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Gauntlet of Command",
+        "image": "gauntlet-of-command",
+        "label": "Gauntlet of Command",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:46.922Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:47.935Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:47.935Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:47.936Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:47.937Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:47.937Z",
+    "message": [
+      "stronglink: 0 amber Fragia10: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:47.937Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:47.937Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:47.937Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:47.937Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:48.186Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:54.574Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:54.574Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:54.821Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:56.141Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Headhunter",
+        "image": "headhunter",
+        "label": "Headhunter",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:56.307Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:57.725Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Headhunter",
+        "image": "headhunter",
+        "label": "Headhunter",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:57.880Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 4,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:59.018Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:59.018Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:59.019Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:59.020Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:59.020Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      3
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:59.021Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 1"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:59.021Z",
+    "message": [
+      "stronglink: 0 amber Fragia10: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:59.021Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:59.021Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:59.021Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:27:59.021Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:27:59.180Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:00.967Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:00.967Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:01.327Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:02.647Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:02.872Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:05.678Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Unguarded Camp",
+        "image": "unguarded-camp",
+        "label": "Unguarded Camp",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:05.933Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:10.476Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Gauntlet of Command",
+        "image": "gauntlet-of-command",
+        "label": "Gauntlet of Command",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "ready and fight with ",
+          {
+            "name": "Krump",
+            "image": "krump",
+            "label": "Krump",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:10.651Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:13.286Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Krump",
+            "image": "krump",
+            "label": "Krump",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Headhunter",
+                "image": "headhunter",
+                "label": "Headhunter",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:13.532Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:16.054Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:16.054Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:16.055Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:16.056Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:16.056Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:16.056Z",
+    "message": [
+      "stronglink: 0 amber Fragia10: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:16.057Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:16.057Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:16.057Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:16.057Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:16.305Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:18.863Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:18.864Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:19.150Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:20.316Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pingle Who Annoys",
+        "image": "pingle-who-annoys",
+        "label": "Pingle Who Annoys",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:20.474Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:22.555Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Bumpsy",
+        "image": "bumpsy",
+        "label": "Bumpsy",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:22.709Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:23.073Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Bumpsy",
+        "image": "bumpsy",
+        "label": "Bumpsy",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "message": [
+              {
+                "name": "Fragia10",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          },
+          " lose 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:23.233Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:24.603Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Headhunter",
+        "image": "headhunter",
+        "label": "Headhunter",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Headhunter",
+                "image": "headhunter",
+                "label": "Headhunter",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:24.773Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 3,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:24.986Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:24.986Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:24.988Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:24.988Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:24.989Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      2
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:24.990Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 2"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:24.990Z",
+    "message": [
+      "stronglink: 1 amber Fragia10: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:24.990Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:24.991Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:24.991Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:24.991Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:25.067Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:27.925Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:27.926Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:28.170Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:29.470Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Commander Remiel",
+        "image": "commander-remiel",
+        "label": "Commander Remiel",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:29.539Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:30.263Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pingle Who Annoys",
+        "image": "pingle-who-annoys",
+        "label": "Pingle Who Annoys",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 1 damage to ",
+          {
+            "message": [
+              {
+                "name": "Commander Remiel",
+                "image": "commander-remiel",
+                "label": "Commander Remiel",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:30.519Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:34.854Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Staunch Knight",
+        "image": "staunch-knight",
+        "label": "Staunch Knight",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:35.119Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:35.767Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pingle Who Annoys",
+        "image": "pingle-who-annoys",
+        "label": "Pingle Who Annoys",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 1 damage to ",
+          {
+            "message": [
+              {
+                "name": "Staunch Knight",
+                "image": "staunch-knight",
+                "label": "Staunch Knight",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:36.037Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:37.478Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Potion of Invulnerability",
+        "image": "potion-of-invulnerability",
+        "label": "Potion of Invulnerability",
+        "type": "artifact",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:37.864Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:38.502Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:38.502Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:38.504Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:38.504Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:38.505Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:38.505Z",
+    "message": [
+      "stronglink: 1 amber Fragia10: 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:38.505Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:38.506Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:38.506Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      1,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:38.507Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:38.928Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:45.559Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:45.560Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:45.810Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:54.231Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pandemonium",
+        "image": "pandemonium",
+        "label": "Pandemonium",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:54.233Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pandemonium",
+        "image": "pandemonium",
+        "label": "Pandemonium",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "cause each undamaged creature to capture 1 amber from their opponent"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:54.514Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:28:58.857Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Hand of Dis",
+        "image": "hand-of-dis",
+        "label": "Hand of Dis",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:28:59.145Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:00.154Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Hand of Dis",
+        "image": "hand-of-dis",
+        "label": "Hand of Dis",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy ",
+          {
+            "message": [
+              {
+                "name": "Krump",
+                "image": "krump",
+                "label": "Krump",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:00.418Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:03.337Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Poltergeist",
+        "image": "poltergeist",
+        "label": "Poltergeist",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:03.594Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:04.214Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Poltergeist",
+        "image": "poltergeist",
+        "label": "Poltergeist",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "use ",
+          {
+            "name": "Gauntlet of Command",
+            "image": "gauntlet-of-command",
+            "label": "Gauntlet of Command",
+            "type": "artifact",
+            "argType": "card"
+          },
+          " and destroy it"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:04.465Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:05.872Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Gauntlet of Command",
+        "image": "gauntlet-of-command",
+        "label": "Gauntlet of Command",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "ready and fight with ",
+          {
+            "name": "Headhunter",
+            "image": "headhunter",
+            "label": "Headhunter",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:06.121Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:06.464Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Headhunter",
+        "image": "headhunter",
+        "label": "Headhunter",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Headhunter",
+            "image": "headhunter",
+            "label": "Headhunter",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Commander Remiel",
+                "image": "commander-remiel",
+                "label": "Commander Remiel",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:06.468Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Headhunter",
+        "image": "headhunter",
+        "label": "Headhunter",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:06.726Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 2,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:08.738Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:08.738Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:08.741Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:08.741Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:08.741Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      1
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:08.744Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 3"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:08.744Z",
+    "message": [
+      "stronglink: 3 amber Fragia10: 0 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:08.744Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:08.745Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:08.745Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      0,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:08.745Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:09.000Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:19.167Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:19.167Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:19.423Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:21.550Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Protect the Weak",
+        "image": "protect-the-weak",
+        "label": "Protect the Weak",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ", gaining 1 amber",
+      " attaching it to ",
+      {
+        "name": "Staunch Knight",
+        "image": "staunch-knight",
+        "label": "Staunch Knight",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:21.816Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:25.427Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Staunch Knight",
+        "image": "staunch-knight",
+        "label": "Staunch Knight",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Staunch Knight",
+            "image": "staunch-knight",
+            "label": "Staunch Knight",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Bumpsy",
+                "image": "bumpsy",
+                "label": "Bumpsy",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:25.694Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:29.689Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:29.689Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:29.690Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:29.690Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:29.691Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:29.691Z",
+    "message": [
+      "stronglink: 3 amber Fragia10: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:29.691Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:29.692Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:29.692Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:29.692Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:30.013Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:55.154Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:55.155Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:55.412Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:29:59.404Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Take That, Smartypants",
+        "image": "take-that-smartypants",
+        "label": "Take That, Smartypants",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:29:59.568Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:03.749Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Valdr",
+        "image": "valdr",
+        "label": "Valdr",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:03.911Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:16.452Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pingle Who Annoys",
+        "image": "pingle-who-annoys",
+        "label": "Pingle Who Annoys",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Pingle Who Annoys",
+                "image": "pingle-who-annoys",
+                "label": "Pingle Who Annoys",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:16.703Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:18.871Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Headhunter",
+        "image": "headhunter",
+        "label": "Headhunter",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Headhunter",
+            "image": "headhunter",
+            "label": "Headhunter",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Staunch Knight",
+                "image": "staunch-knight",
+                "label": "Staunch Knight",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:19.045Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:20.588Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Earthshaker",
+        "image": "earthshaker",
+        "label": "Earthshaker",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:20.839Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:21.085Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Earthshaker",
+        "image": "earthshaker",
+        "label": "Earthshaker",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy ",
+          {
+            "message": [
+              {
+                "name": "Pingle Who Annoys",
+                "image": "pingle-who-annoys",
+                "label": "Pingle Who Annoys",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:21.249Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 1,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:22.389Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:22.390Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:22.391Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:22.391Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      5
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:22.391Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      1
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:22.393Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 4"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:22.393Z",
+    "message": [
+      "stronglink: 5 amber Fragia10: 2 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:22.393Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:22.393Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:22.393Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      2,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:22.396Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:22.657Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:25.639Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:25.639Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:25.920Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:27.431Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:27.433Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "draw a card after playing a card for the remainder of the turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:27.700Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:30.559Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Scrambler Storm",
+        "image": "scrambler-storm",
+        "label": "Scrambler Storm",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:30.560Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "'s effect"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:30.561Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Scrambler Storm",
+        "image": "scrambler-storm",
+        "label": "Scrambler Storm",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "stop ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " from playing any actions on their next turn"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:30.835Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:32.834Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Twin Bolt Emission",
+        "image": "twin-bolt-emission",
+        "label": "Twin Bolt Emission",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:32.835Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "'s effect"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:33.187Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:34.991Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Twin Bolt Emission",
+        "image": "twin-bolt-emission",
+        "label": "Twin Bolt Emission",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 2 damage to ",
+          {
+            "message": [
+              {
+                "name": "Earthshaker",
+                "image": "earthshaker",
+                "label": "Earthshaker",
+                "type": "creature",
+                "argType": "card"
+              },
+              " and ",
+              {
+                "name": "Valdr",
+                "image": "valdr",
+                "label": "Valdr",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:35.325Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:36.999Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Mother",
+        "image": "mother",
+        "label": "Mother",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:37.199Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:37.840Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "'s effect"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:38.095Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:44.016Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Experimental Therapy",
+        "image": "experimental-therapy",
+        "label": "Experimental Therapy",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ",",
+      " attaching it to ",
+      {
+        "name": "Valdr",
+        "image": "valdr",
+        "label": "Valdr",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:44.018Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws a card due to ",
+      {
+        "name": "Library Access",
+        "image": "library-access",
+        "label": "Library Access",
+        "type": "action",
+        "argType": "card"
+      },
+      "'s effect"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:44.021Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Experimental Therapy",
+        "image": "experimental-therapy",
+        "label": "Experimental Therapy",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "exhaust ",
+          {
+            "message": [
+              {
+                "name": "Valdr",
+                "image": "valdr",
+                "label": "Valdr",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:44.353Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:54.957Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:54.958Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:54.960Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:54.960Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      2,
+      " cards up to their maximum hand size of ",
+      7
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:54.963Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:54.963Z",
+    "message": [
+      "stronglink: 5 amber Fragia10: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:54.963Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:54.965Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:54.965Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      5,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:30:54.972Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:55.320Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:19.249Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "dis",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:19.250Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:19.507Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:21.762Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Flame-Wreathed",
+        "image": "flame-wreathed",
+        "label": "Flame-Wreathed",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ", gaining 1 amber",
+      " attaching it to ",
+      {
+        "name": "Valdr",
+        "image": "valdr",
+        "label": "Valdr",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:21.948Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:28.060Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pit Demon",
+        "image": "pit-demon",
+        "label": "Pit Demon",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:28.223Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:32.694Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:32.695Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:32.697Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:32.702Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:32.702Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:30:22.391Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      0
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:32.706Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 5"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:32.706Z",
+    "message": [
+      "stronglink: 6 amber Fragia10: 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:32.706Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:32.708Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:32.708Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:32.709Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:32.968Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:34.008Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:34.009Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:34.324Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:40.499Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Take That, Smartypants",
+        "image": "take-that-smartypants",
+        "label": "Take That, Smartypants",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:40.782Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:46.324Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Blood Money",
+        "image": "blood-money",
+        "label": "Blood Money",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:46.616Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:54.504Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Blood Money",
+        "image": "blood-money",
+        "label": "Blood Money",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "place 2 amber on ",
+          {
+            "message": [
+              {
+                "name": "Valdr",
+                "image": "valdr",
+                "label": "Valdr",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:55.388Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:31:57.601Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Firespitter",
+        "image": "firespitter",
+        "label": "Firespitter",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:31:57.791Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:02.306Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:02.477Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:04.549Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Headhunter",
+        "image": "headhunter",
+        "label": "Headhunter",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:04.754Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 0
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:08.504Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:08.504Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:08.517Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:08.518Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      5,
+      " cards up to their maximum hand size of ",
+      7
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:08.522Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:08.522Z",
+    "message": [
+      "stronglink: 6 amber Fragia10: 5 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:08.522Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:08.525Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:08.525Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:08.526Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:08.791Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:10.497Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "untamed",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:10.498Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:10.818Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:12.780Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Hunting Witch",
+        "image": "hunting-witch",
+        "label": "Hunting Witch",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:13.037Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:15.569Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " exhausts ",
+      {
+        "name": "Valdr",
+        "image": "valdr",
+        "label": "Valdr",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to remove its stun"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:15.740Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:17.594Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Murmook",
+        "image": "murmook",
+        "label": "Murmook",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:17.764Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:18.251Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Hunting Witch",
+        "image": "hunting-witch",
+        "label": "Hunting Witch",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:18.433Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:19.335Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Witch of the Eye",
+        "image": "witch-of-the-eye",
+        "label": "Witch of the Eye",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:19.504Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 1,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:19.969Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Hunting Witch",
+        "image": "hunting-witch",
+        "label": "Hunting Witch",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:20.141Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:21.363Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ancient Bear",
+        "image": "ancient-bear",
+        "label": "Ancient Bear",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:21.646Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:22.049Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Hunting Witch",
+        "image": "hunting-witch",
+        "label": "Hunting Witch",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:22.237Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:27.718Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Fertility Chant",
+        "image": "fertility-chant",
+        "label": "Fertility Chant",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:27.721Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Fertility Chant",
+        "image": "fertility-chant",
+        "label": "Fertility Chant",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "cause ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          },
+          " to gain 2 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:28.075Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 0
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:28.619Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:28.620Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:28.623Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:28.623Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      5,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:28.623Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:28.627Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 6"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:28.627Z",
+    "message": [
+      "stronglink: 7 amber Fragia10: 7 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:28.627Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:28.629Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:28.629Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      7,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:28.630Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:28.920Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:35.799Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "logos",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:35.801Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:36.272Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:38.596Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Effervescent Principle",
+        "image": "effervescent-principle",
+        "label": "Effervescent Principle",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:38.599Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Effervescent Principle",
+        "image": "effervescent-principle",
+        "label": "Effervescent Principle",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "gain a chain and make both players lose half their amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:38.857Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:44.944Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Mother",
+        "image": "mother",
+        "label": "Mother",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Mother",
+            "image": "mother",
+            "label": "Mother",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Hunting Witch",
+                "image": "hunting-witch",
+                "label": "Hunting Witch",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:45.381Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:53.540Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Titan Mechanic",
+        "image": "titan-mechanic",
+        "label": "Titan Mechanic",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:53.901Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 0,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:55.899Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Wild Wormhole",
+        "image": "wild-wormhole",
+        "label": "Wild Wormhole",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:55.902Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Wild Wormhole",
+        "image": "wild-wormhole",
+        "label": "Wild Wormhole",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "play the top card of their deck",
+          ": ",
+          {
+            "name": "Blood of Titans",
+            "image": "blood-of-titans",
+            "label": "Blood of Titans",
+            "type": "upgrade",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:32:56.081Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 1,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:32:59.630Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Blood of Titans",
+        "image": "blood-of-titans",
+        "label": "Blood of Titans",
+        "type": "upgrade",
+        "argType": "card"
+      },
+      ", gaining 1 amber",
+      " attaching it to ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:00.032Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 2,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:01.832Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Wild Wormhole",
+        "image": "wild-wormhole",
+        "label": "Wild Wormhole",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:01.835Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Wild Wormhole",
+        "image": "wild-wormhole",
+        "label": "Wild Wormhole",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "play the top card of their deck",
+          ": ",
+          {
+            "name": "Sequis",
+            "image": "sequis",
+            "label": "Sequis",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:01.836Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Sequis",
+        "image": "sequis",
+        "label": "Sequis",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:02.073Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 3,
+        "chains": 1,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:11.144Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:11.144Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:11.148Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:11.148Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:11.148Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      0
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:11.151Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:11.151Z",
+    "message": [
+      "stronglink: 4 amber Fragia10: 3 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:11.151Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:11.153Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:11.154Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      4,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:11.154Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:11.510Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:14.472Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "untamed",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:14.474Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:14.822Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:18.133Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Niffle Ape",
+        "image": "niffle-ape",
+        "label": "Niffle Ape",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:18.400Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:21.190Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Witch of the Eye",
+        "image": "witch-of-the-eye",
+        "label": "Witch of the Eye",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Witch of the Eye",
+                "image": "witch-of-the-eye",
+                "label": "Witch of the Eye",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:21.581Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:23.090Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Witch of the Eye",
+        "image": "witch-of-the-eye",
+        "label": "Witch of the Eye",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "return ",
+          {
+            "message": [
+              {
+                "name": "Fertility Chant",
+                "image": "fertility-chant",
+                "label": "Fertility Chant",
+                "type": "action",
+                "argType": "card"
+              }
+            ]
+          },
+          " to their hand"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:23.492Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:25.535Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Fertility Chant",
+        "image": "fertility-chant",
+        "label": "Fertility Chant",
+        "type": "action",
+        "argType": "card"
+      },
+      ", gaining 4 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:25.542Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Fertility Chant",
+        "image": "fertility-chant",
+        "label": "Fertility Chant",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "cause ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          },
+          " to gain 2 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:25.837Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 9,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:29.145Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Murmook",
+        "image": "murmook",
+        "label": "Murmook",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Murmook",
+                "image": "murmook",
+                "label": "Murmook",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:29.501Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 10,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:51.105Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ancient Bear",
+        "image": "ancient-bear",
+        "label": "Ancient Bear",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Ancient Bear",
+            "image": "ancient-bear",
+            "label": "Ancient Bear",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Staunch Knight",
+                "image": "staunch-knight",
+                "label": "Staunch Knight",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:51.108Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ancient Bear",
+        "image": "ancient-bear",
+        "label": "Ancient Bear",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 2 damage to ",
+          {
+            "message": [
+              {
+                "name": "Staunch Knight",
+                "image": "staunch-knight",
+                "label": "Staunch Knight",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:51.488Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:53.863Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Valdr",
+        "image": "valdr",
+        "label": "Valdr",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Valdr",
+                "image": "valdr",
+                "label": "Valdr",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:54.218Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 12,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:54.987Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:54.987Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:54.990Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:54.990Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      1,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:54.990Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:54.991Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 7"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:54.991Z",
+    "message": [
+      "stronglink: 12 amber Fragia10: 5 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:54.991Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:54.993Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:54.993Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      5,
+      " amber - current cost:",
+      7,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:54.994Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:55.263Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 12,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:58.544Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:33:58.546Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:33:58.906Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 12,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:00.511Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Pile of Skulls",
+        "image": "pile-of-skulls",
+        "label": "Pile of Skulls",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:00.868Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 12,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:02.426Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Bumpsy",
+        "image": "bumpsy",
+        "label": "Bumpsy",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:02.716Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 12,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:07.196Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Bumpsy",
+        "image": "bumpsy",
+        "label": "Bumpsy",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "message": [
+              {
+                "name": "stronglink",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          },
+          " lose 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:07.567Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:15.457Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Headhunter",
+        "image": "headhunter",
+        "label": "Headhunter",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Headhunter",
+            "image": "headhunter",
+            "label": "Headhunter",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Valdr",
+                "image": "valdr",
+                "label": "Valdr",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:15.459Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Valdr",
+        "image": "valdr",
+        "label": "Valdr",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 2 damage to ",
+          {
+            "message": [
+              {
+                "name": "Headhunter",
+                "image": "headhunter",
+                "label": "Headhunter",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:15.819Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:22.689Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Krump",
+            "image": "krump",
+            "label": "Krump",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Witch of the Eye",
+                "image": "witch-of-the-eye",
+                "label": "Witch of the Eye",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:22.961Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 11,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:24.913Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pile of Skulls",
+        "image": "pile-of-skulls",
+        "label": "Pile of Skulls",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "capture 1 amber from ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          ", placing it on ",
+          {
+            "message": [
+              {
+                "name": "Sequis",
+                "image": "sequis",
+                "label": "Sequis",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:24.916Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Krump",
+        "image": "krump",
+        "label": "Krump",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "message": [
+              {
+                "name": "stronglink",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          },
+          " lose 1 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:25.271Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 9,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:33.137Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Firespitter",
+        "image": "firespitter",
+        "label": "Firespitter",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Firespitter",
+            "image": "firespitter",
+            "label": "Firespitter",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Valdr",
+                "image": "valdr",
+                "label": "Valdr",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:33.493Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 9,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:38.018Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Valdr",
+        "image": "valdr",
+        "label": "Valdr",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 2 damage to ",
+          {
+            "message": [
+              {
+                "name": "Firespitter",
+                "image": "firespitter",
+                "label": "Firespitter",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:38.021Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Firespitter",
+        "image": "firespitter",
+        "label": "Firespitter",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "deal 1 damage to each enemy creature"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:38.381Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 9,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:42.905Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pile of Skulls",
+        "image": "pile-of-skulls",
+        "label": "Pile of Skulls",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "capture 1 amber from ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          ", placing it on ",
+          {
+            "message": [
+              {
+                "name": "Titan Mechanic",
+                "image": "titan-mechanic",
+                "label": "Titan Mechanic",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:43.320Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 8,
+        "chains": 0,
+        "keys": 1
+      },
+      "Fragia10": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:48.993Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:48.993Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:48.996Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:48.996Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      7
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:48.996Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:48.998Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:48.998Z",
+    "message": [
+      "stronglink: 8 amber Fragia10: 7 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:48.998Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:48.999Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:48.999Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:34:49.000Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:34:49.361Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:02.187Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:02.188Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:02.543Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 2,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:05.648Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Earthshaker",
+        "image": "earthshaker",
+        "label": "Earthshaker",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Earthshaker",
+                "image": "earthshaker",
+                "label": "Earthshaker",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:06.070Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:12.636Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Lomir Flamefist",
+        "image": "lomir-flamefist",
+        "label": "Lomir Flamefist",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:12.987Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 7,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:13.501Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Lomir Flamefist",
+        "image": "lomir-flamefist",
+        "label": "Lomir Flamefist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "message": [
+              {
+                "name": "Fragia10",
+                "argType": "nonAvatarPlayer"
+              }
+            ]
+          },
+          " lose 2 amber"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:13.686Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:20.868Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Tremor",
+        "image": "tremor",
+        "label": "Tremor",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:21.245Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:21.969Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Tremor",
+        "image": "tremor",
+        "label": "Tremor",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "stun ",
+          {
+            "message": [
+              {
+                "name": "Sequis",
+                "image": "sequis",
+                "label": "Sequis",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", ",
+              {
+                "name": "Krump",
+                "image": "krump",
+                "label": "Krump",
+                "type": "creature",
+                "argType": "card"
+              },
+              ", and ",
+              {
+                "name": "Titan Mechanic",
+                "image": "titan-mechanic",
+                "label": "Titan Mechanic",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:22.249Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:24.110Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Ganger Chieftain",
+        "image": "ganger-chieftain",
+        "label": "Ganger Chieftain",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:24.291Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:27.247Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganger Chieftain",
+        "image": "ganger-chieftain",
+        "label": "Ganger Chieftain",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "ready and fight with a neighboring creature"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:27.460Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:29.966Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Lomir Flamefist",
+        "image": "lomir-flamefist",
+        "label": "Lomir Flamefist",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Lomir Flamefist",
+            "image": "lomir-flamefist",
+            "label": "Lomir Flamefist",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Mother",
+                "image": "mother",
+                "label": "Mother",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:30.339Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:31.433Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:31.434Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:31.436Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:31.437Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:31.439Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 8"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:31.439Z",
+    "message": [
+      "stronglink: 3 amber Fragia10: 5 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:31.439Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:31.441Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:31.448Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      5,
+      " amber - current cost:",
+      7,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:31.449Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:31.813Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:34.801Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:34.802Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:35.178Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:37.827Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " exhausts ",
+      {
+        "name": "Sequis",
+        "image": "sequis",
+        "label": "Sequis",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to remove its stun"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:38.191Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 5,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:40.715Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Round Table",
+        "image": "round-table",
+        "label": "Round Table",
+        "type": "artifact",
+        "argType": "card"
+      },
+      ", gaining 1 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:41.026Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:43.330Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Protectrix",
+        "image": "protectrix",
+        "label": "Protectrix",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:43.523Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:48.053Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Lady Maxena",
+        "image": "lady-maxena",
+        "label": "Lady Maxena",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:48.243Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:53.995Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Lady Maxena",
+        "image": "lady-maxena",
+        "label": "Lady Maxena",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "stun ",
+          {
+            "message": [
+              {
+                "name": "Pit Demon",
+                "image": "pit-demon",
+                "label": "Pit Demon",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:54.425Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:35:56.675Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Commander Remiel",
+        "image": "commander-remiel",
+        "label": "Commander Remiel",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:35:56.908Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:04.978Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:04.978Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:04.981Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:04.982Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:04.985Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:04.985Z",
+    "message": [
+      "stronglink: 3 amber Fragia10: 6 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:04.985Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:04.987Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:04.988Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      3,
+      " amber - current cost:",
+      6,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:04.989Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:05.390Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:38.617Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "brobnar",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:38.619Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:38.973Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 3,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:46.229Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Ganger Chieftain",
+        "image": "ganger-chieftain",
+        "label": "Ganger Chieftain",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Ganger Chieftain",
+                "image": "ganger-chieftain",
+                "label": "Ganger Chieftain",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:46.621Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 4,
+        "chains": 0,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:48.114Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Coward's End",
+        "image": "coward-s-end",
+        "label": "Coward's End",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:48.116Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Coward's End",
+        "image": "coward-s-end",
+        "label": "Coward's End",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "destroy each undamaged creature"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:48.495Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 3,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:52.523Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Earthshaker",
+        "image": "earthshaker",
+        "label": "Earthshaker",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "reap with ",
+          {
+            "message": [
+              {
+                "name": "Earthshaker",
+                "image": "earthshaker",
+                "label": "Earthshaker",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:52.882Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 3,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:54.110Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:54.110Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:54.112Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:54.112Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      2
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:54.112Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:54.112Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 9"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:54.112Z",
+    "message": [
+      "stronglink: 7 amber Fragia10: 6 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:54.112Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:54.113Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:54.113Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " does not forge a key as they have ",
+      6,
+      " amber - current cost:",
+      7,
+      " amber "
+    ]
+  },
+  {
+    "date": "2019-05-03T19:36:54.114Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "House",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:36:54.495Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 2,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:37:48.090Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 2,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:37:54.028Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 2,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:05.230Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " chooses ",
+      "sanctum",
+      " as their active house this turn"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:05.232Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Main",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:05.622Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 2,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:12.363Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Staunch Knight",
+        "image": "staunch-knight",
+        "label": "Staunch Knight",
+        "type": "creature",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:12.782Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 2,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:16.384Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Inspiration",
+        "image": "inspiration",
+        "label": "Inspiration",
+        "type": "action",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:16.653Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 2,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:18.628Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Inspiration",
+        "image": "inspiration",
+        "label": "Inspiration",
+        "type": "action",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "ready and use ",
+          {
+            "name": "Staunch Knight",
+            "image": "staunch-knight",
+            "label": "Staunch Knight",
+            "type": "creature",
+            "argType": "card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:18.994Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 2,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:27.268Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Staunch Knight",
+        "image": "staunch-knight",
+        "label": "Staunch Knight",
+        "type": "creature",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "make ",
+          {
+            "name": "Staunch Knight",
+            "image": "staunch-knight",
+            "label": "Staunch Knight",
+            "type": "creature",
+            "argType": "card"
+          },
+          " fight ",
+          {
+            "message": [
+              {
+                "name": "Murmook",
+                "image": "murmook",
+                "label": "Murmook",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:27.626Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 7,
+        "chains": 2,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:28.883Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " uses ",
+      {
+        "name": "Pile of Skulls",
+        "image": "pile-of-skulls",
+        "label": "Pile of Skulls",
+        "type": "artifact",
+        "argType": "card"
+      },
+      " to ",
+      {
+        "message": [
+          "capture 1 amber from ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          ", placing it on ",
+          {
+            "message": [
+              {
+                "name": "Firespitter",
+                "image": "firespitter",
+                "label": "Firespitter",
+                "type": "creature",
+                "argType": "card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:29.357Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 2,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:32.347Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " plays ",
+      {
+        "name": "Hallowed Blaster",
+        "image": "hallowed-blaster",
+        "label": "Hallowed Blaster",
+        "type": "artifact",
+        "argType": "card"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:32.738Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 6,
+        "chains": 2,
+        "keys": 2
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:39.283Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Ready",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:39.284Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " readies all their cards"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:39.285Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Draw",
+          " phase - ",
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:39.286Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " draws ",
+      3,
+      " cards up to their maximum hand size of ",
+      6
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:39.286Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "Fragia10",
+            "argType": "nonAvatarPlayer"
+          },
+          " declares Check!"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:39.286Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s deck has run out of cards, so they shuffle"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:39.287Z",
+    "message": [
+      {
+        "name": "Fragia10",
+        "argType": "nonAvatarPlayer"
+      },
+      " is shuffling their deck"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:39.298Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "End of turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:39.298Z",
+    "message": [
+      "stronglink: 6 amber Fragia10: 6 amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:39.298Z",
+    "message": {
+      "alert": {
+        "type": "startofround",
+        "message": [
+          "Turn 10"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:39.299Z",
+    "message": {
+      "alert": {
+        "type": "endofround",
+        "message": [
+          "Key",
+          " phase - ",
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:39.300Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      " forges a key, paying ",
+      6,
+      " amber"
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:39.300Z",
+    "message": {
+      "alert": {
+        "type": "success",
+        "message": [
+          {
+            "name": "stronglink",
+            "argType": "nonAvatarPlayer"
+          },
+          " has won the game"
+        ]
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:39.712Z",
+    "type": "PLAYER_STATE_UPDATE",
+    "players": {
+      "stronglink": {
+        "amber": 0,
+        "chains": 2,
+        "keys": 3
+      },
+      "Fragia10": {
+        "amber": 6,
+        "chains": 0,
+        "keys": 1
+      }
+    }
+  },
+  {
+    "date": "2019-05-03T19:38:54.112Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      1
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:56.112Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      0
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:58.112Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      2
+    ]
+  },
+  {
+    "date": "2019-05-03T19:38:58.112Z",
+    "message": [
+      {
+        "name": "stronglink",
+        "argType": "nonAvatarPlayer"
+      },
+      "'s chains are reduced by 1 to ",
+      2
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "crucibletracker-analyzer",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Grant Titus <grant@granttitus.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^24.8.0",
+    "lodash.findlastindex": "^4.6.0"
+  }
+}
